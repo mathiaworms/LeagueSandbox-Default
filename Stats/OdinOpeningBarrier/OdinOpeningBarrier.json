@@ -1,24 +1,58 @@
 {
-    "MetaData": {
-        "ContentFormatVersion": 4,
-        "Id": "OdinOpeningBarrier",
-        "Name": "OdinOpeningBarrier",
-        "ResourcePath": "DATA/Characters/OdinOpeningBarrier/OdinOpeningBarrier.inibin"
-    },
-    "Values": {
-        "Data": {
-            "PathfindingCollisionRadius": 1,
-            "PerceptionBubbleRadius": "0",
-            "SelectionHeight": 1,
-            "SelectionRadius": 1,
-            "ServerOnly": "0"
-        },
-        "MeshSkin": {
-            "Animations": "OdinOpeningBarrierBase.blnd",
-            "ChampionSkinName": "OdinOpeningBarrierBase",
-            "SimpleSkin": "Cube.skn",
-            "Skeleton": "Cube.skl",
-            "Texture": "lichLoadScreen.dds"
-        }
-    }
+  "Data": {
+    "SelectionHeight": 1,
+    "Name": "game_character_displayname_SpellBook1",
+    "ServerOnly": "0",
+    "BaseFactorMPRegen": "0",
+    "Spell1": "HowlingGaleSpell1",
+    "Spell2": "HowlingGaleSpell2",
+    "Spell3": "HowlingGaleSpell3",
+    "Spell4": "HowlingGaleSpell4",
+    "BaseStaticMPRegen": "0",
+    "BaseHP": "100",
+    "BaseMP": "500",
+    "AttackSpeedPerLevel": 0,
+    "BaseCritChance": 0,
+    "MPPerLevel": "0",
+    "MoveSpeed": "350",
+    "CritPerLevel": 0,
+    "DamagePerLevel": "1.0",
+    "AttackSpeed": 1.6,
+    "AttackRange": "100",
+    "ArmorPerLevel": 0,
+    "IsMelee": "Yes",
+    "PathfindingCollisionRadius": 1,
+    "PerceptionBubbleRadius": "0",
+    "LevelDodge": 0,
+    "BaseDamage": "21.0",
+    "AttackDelayOffsetPercent": "-0.37500",
+    "ExpGivenOnDeath": "77.0",
+    "BaseDodge": 0,
+    "Armor": 2,
+    "GoldGivenOnDeath": "22.0",
+    "ExtraSpell1": "CalamityMissile",
+    "ExtraSpell2": "HowlingGaleSpell",
+    "ExtraSpell3": "SealFateMissile",
+    "ExtraSpell4": "GalioRighteousGustMissile",
+    "HPPerLevel": "10",
+    "AttackDelayCastOffsetPercent": "0.05950",
+    "Description": "game_character_description_SpellBook1",
+    "SelectionRadius": 1,
+    "BaseFactorHPRegen": "0.00150",
+    "CritDamageBonus": 2,
+    "BaseStaticHPRegen": 0.5
+  },
+  "Unknown": {
+    "386495002": 0,
+    "2818610673": "60.0",
+    "3059634699": 0,
+    "3939240930": "Cube.sco",
+    "3983263047": 0
+  },
+  "MeshSkin": {
+    "Weight": "Cube.wgt",
+    "SimpleSkin": "Cube.skn",
+    "Skeleton": "Cube.skl",
+    "Texture": "lichLoadScreen.dds"
+  }
 }

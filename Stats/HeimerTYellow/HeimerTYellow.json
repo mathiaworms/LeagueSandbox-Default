@@ -1,71 +1,86 @@
 {
-    "MetaData": {
-        "ContentFormatVersion": 4,
-        "Id": "HeimerTYellow",
-        "Name": "HeimerTYellow",
-        "ResourcePath": "DATA/Characters/HeimerTYellow/HeimerTYellow.inibin"
-    },
-    "Values": {
-        "Data": {
-            "AcquisitionRange": "450",
-            "Armor": "10",
-            "ArmorMaterial": "Metal",
-            "ArmorPerLevel": 0,
-            "AttackDelayCastOffsetPercent": -0.01198,
-            "AttackDelayOffsetPercent": -0.5,
-            "AttackRange": "530",
-            "AttackSpeedPerLevel": 0,
-            "BaseAttack_Probability": 0.5,
-            "BaseCritChance": 0,
-            "BaseDamage": 0.001,
-            "BaseDodge": 0,
-            "BaseFactorHPRegen": "0",
-            "BaseFactorMPRegen": "0",
-            "BaseHP": "10000",
-            "BaseMP": "50",
-            "BaseStaticHPRegen": "0",
-            "BaseStaticMPRegen": "0",
-            "CritDamageBonus": 1,
-            "CritPerLevel": 0,
-            "DamagePerLevel": "0",
-            "Description": "game_character_description_HeimerdingerQ",
-            "DisableAggroIndicator": "true",
-            "EnemyTooltip": "",
-            "ExpGivenOnDeath": 0,
-            "ExtraAttack1": "HeimerTYellowBasicAttack2",
-            "ExtraAttack1_Probability": 0.5,
-            "FriendlyTooltip": "",
-            "GameplayCollisionRadius": "35.0",
-            "GoldGivenOnDeath": "5.0",
-            "HPPerLevel": "0",
-            "IsImportantBotTarget": "true",
-            "IsMelee": "false",
-            "LevelDodge": 0,
-            "MoveSpeed": "0",
-            "MPPerLevel": "0",
-            "Name": "game_character_displayname_HeimerdingerQ",
-            "PARType": "MANA",
-            "PathfindingCollisionRadius": 1,
-            "PerceptionBubbleRadius": "650",
-            "SelectionHeight": "60.0",
-            "SelectionRadius": "60.0000",
-            "Significance": 0.3,
-            "Spell1": "HeimerdingerTurretEnergyBlast",
-            "Spell2": "BaseSpell",
-            "Spell3": "BaseSpell",
-            "Spell4": "BaseSpell",
-            "SpellBlock": 25,
-            "Tips2": "game_character_opposing_tips_Heimerdinger",
-            "TowerTargetingPriorityBoost": "10",
-            "UnitTags": "Minion | Minion_Summon"
-        },
-        "Info": {
-            "IconCircle": "Turret_Circle.dds",
-            "IconSquare": "Turret_Square.dds"
-        },
-        "UNKNOWN_HASHES": {
-            "386495002": 0,
-            "3983263047": 0
-        }
-    }
+  "Data": {
+    "SelectionHeight": "90.0",
+    "Tips2": "game_character_opposing_tips_Heimerdinger",
+    "Name": "game_character_displayname_H28GEvolutionTurret",
+    "BaseFactorMPRegen": "0",
+    "Spell1": "BaseSpell",
+    "Spell2": "BaseSpell",
+    "Spell3": "BaseSpell",
+    "Spell4": "BaseSpell",
+    "GameplayCollisionRadius": "50.0",
+    "BaseStaticMPRegen": "0",
+    "BaseHP": "260",
+    "BaseMP": "0",
+    "AttackSpeedPerLevel": 0,
+    "BaseCritChance": 0,
+    "MPPerLevel": "0",
+    "MoveSpeed": "0",
+    "CritPerLevel": 0,
+    "DamagePerLevel": "0",
+    "EnemyTooltip": "",
+    "AttackRange": 525,
+    "SpellBlock": "80",
+    "FriendlyTooltip": "",
+    "ArmorPerLevel": 0,
+    "IsMelee": "No",
+    "PathfindingCollisionRadius": 1,
+    "PerceptionBubbleRadius": "700",
+    "LevelDodge": 0,
+    "BaseDamage": "0.00100",
+    "AttackDelayOffsetPercent": "-0.50000",
+    "ExpGivenOnDeath": 0,
+    "BaseDodge": 0,
+    "Armor": "30",
+    "GoldGivenOnDeath": "12.0",
+    "AcquisitionRange": 525,
+    "HPPerLevel": "0",
+    "ArmorMaterial": "Metal",
+    "AttackDelayCastOffsetPercent": "-0.01198",
+    "Description": "game_character_description_H28GEvolutionTurret",
+    "SelectionRadius": "90.0000",
+    "BaseFactorHPRegen": "0",
+    "CritDamageBonus": 2,
+    "BaseStaticHPRegen": "0"
+  },
+  "Unknown": {
+    "78882426": "heimerdinger_turret_idle.troy R_Body_b",
+    "386495002": 0,
+    "3983263047": 0
+  },
+  "MeshSkin1": {
+    "SimpleSkin": "HeimerdingerTurret_alien.skn",
+    "Skeleton": "HeimerdingerTurret_alien.skl",
+    "Texture": "heimerdinger_turret_TX_CM_yellow.dds",
+    "SkinScale": 1.1,
+    "SelfIllumination": 0.5
+  },
+  "MeshSkin2": {
+    "SimpleSkin": "HeimerdingerTurret.skn",
+    "SelfIllumination": 0.5,
+    "Skeleton": "HeimerdingerTurret.skl",
+    "SkinScale": 1.1,
+    "Texture": "H28GEvolutionTurret.dds"
+  },
+  "MeshSkin3": {
+    "SimpleSkin": "HeimerdingerTurret_mechanic.skn",
+    "SkinScale": 1.1,
+    "Skeleton": "HeimerdingerTurret_mechanic.skl",
+    "SelfIllumination": 0.5,
+    "Texture": "heimerdinger_turret_mechanic_PET_yellow_TX_CM.dds"
+  },
+  "MeshSkin": {
+    "SimpleSkin": "HeimerdingerTurret.skn",
+    "Skeleton": "HeimerdingerTurret.skl",
+    "Texture": "H28GEvolutionTurret.dds",
+    "SelfIllumination": 0.5,
+    "SkinScale": 1.1
+  },
+  "IdleParticles": {
+    "NumberOfParticles": 1
+  },
+  "Info": {
+    "IconCircle": "Turret_Circle.dds",
+    "IconSquare": "Turret_Square.dds"
+  }
 }

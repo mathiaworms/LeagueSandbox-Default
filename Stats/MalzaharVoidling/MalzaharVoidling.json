@@ -1,116 +1,94 @@
 {
-    "MetaData": {
-        "ContentFormatVersion": 4,
-        "Id": "MalzaharVoidling",
-        "Name": "MalzaharVoidling",
-        "ResourcePath": "DATA/Characters/MalzaharVoidling/MalzaharVoidling.inibin"
-    },
-    "Values": {
-        "Data": {
-            "AcquisitionRange": "800",
-            "Armor": "30",
-            "ArmorMaterial": "Flesh",
-            "ArmorPerLevel": "0",
-            "AttackDelayCastOffsetPercent": 0,
-            "AttackDelayOffsetPercent": -0.06,
-            "AttackRange": 125,
-            "AttackSpeed": "10",
-            "AttackSpeedPerLevel": 0,
-            "BaseAttack_Probability": 0.35,
-            "BaseCritChance": "0",
-            "BaseDamage": "20.0",
-            "BaseDodge": 0,
-            "BaseFactorHPRegen": 0.0015,
-            "BaseFactorMPRegen": 0.0015,
-            "BaseHP": "200",
-            "BaseMP": "0",
-            "BaseStaticHPRegen": 0.5,
-            "BaseStaticMPRegen": 0.5,
-            "ChasingAttackRangePercent": 0.5,
-            "CritDamageBonus": 1,
-            "CritPerLevel": "0",
-            "DamagePerLevel": "0",
-            "Description": "game_character_description_MalzaharVoidling",
-            "ExpGivenOnDeath": 0,
-            "ExtraAttack1_Probability": 0.35,
-            "ExtraAttack2_Probability": 0.3,
-            "GameplayCollisionRadius": "10.0",
-            "GoldGivenOnDeath": "12.0",
-            "HPPerLevel": "0",
-            "IsMelee": "true",
-            "LevelDodge": 0,
-            "MoveSpeed": "460",
-            "MPPerLevel": "0",
-            "Name": "game_character_displayname_MalzaharVoidling",
-            "PathfindingCollisionRadius": "20.0",
-            "PostAttackMoveDelay": 0.8,
-            "SelectionHeight": "50",
-            "SelectionRadius": "70",
-            "Significance": 0.4,
-            "SoulGivenOnDeath": 0,
-            "Spell1": "BaseSpell",
-            "Spell2": "BaseSpell",
-            "Spell3": "BaseSpell",
-            "Spell4": "BaseSpell",
-            "SpellBlock": "50",
-            "TowerTargetingPriorityBoost": "10",
-            "UnitTags": "Minion | Minion_Summon",
-            "UseChampionVisibility": 1,
-            "WeaponMaterial": "MalzaharVoidlingBasicAttack"
-        },
-        "Info": {
-            "IconCircle": "",
-            "IconSquare": "Voidling_Square.dds"
-        },
-        "MeshSkin": {
-            "Animations": "MalzaharVoidlingBase.blnd",
-            "ChampionSkinName": "MalzaharVoidlingBase",
-            "SelfIllumination": 0.7,
-            "SimpleSkin": "MalzaharVoidling.skn",
-            "Skeleton": "MalzaharVoidling.skl",
-            "SkinScale": 1,
-            "Texture": "Malzahar_Voidling_TX_CM.dds"
-        },
-        "MeshSkin1": {
-            "Animations": "MalzaharVoidlingBase.blnd",
-            "ChampionSkinName": "MeshSkin1",
-            "SelfIllumination": 0.7,
-            "SimpleSkin": "MalzaharVoidling.skn",
-            "Skeleton": "MalzaharVoidling.skl",
-            "SkinScale": 1,
-            "Texture": "Malzahar_Voidling_TX_CM.dds"
-        },
-        "MeshSkin2": {
-            "Animations": "MalzaharVoidlingBase.blnd",
-            "ChampionSkinName": "MeshSkin2",
-            "SelfIllumination": 0.7,
-            "SimpleSkin": "MalzaharVoidling.skn",
-            "Skeleton": "MalzaharVoidling.skl",
-            "SkinScale": 1,
-            "Texture": "Malzahar_Voidling_TX_CM.dds"
-        },
-        "MeshSkin3": {
-            "Animations": "MalzaharVoidlingBase.blnd",
-            "ChampionSkinName": "MeshSkin3",
-            "SelfIllumination": 0.7,
-            "SimpleSkin": "MalzaharVoidling.skn",
-            "Skeleton": "MalzaharVoidling.skl",
-            "SkinScale": 1,
-            "Texture": "Malzahar_Genie_Voidling_TX_CM.dds"
-        },
-        "MeshSkin4": {
-            "Animations": "MalzaharVoidlingBase.blnd",
-            "ChampionSkinName": "MeshSkin4",
-            "SelfIllumination": 0.7,
-            "SimpleSkin": "Malzahar_darkvoid_voidling.skn",
-            "Skeleton": "Malzahar_darkvoid_voidling.skl",
-            "SkinScale": 1,
-            "Texture": "Malzahar_darkvoid_Voidling_PET_TX_CM.dds"
-        },
-        "UNKNOWN_HASHES": {
-            "2818610673": 0,
-            "386495002": 0,
-            "3983263047": "1.0"
-        }
-    }
+  "Data": {
+    "SelectionHeight": "50",
+    "Name": "game_character_displayname_MalzaharVoidling",
+    "BaseFactorMPRegen": "0.00150",
+    "Spell1": "BaseSpell",
+    "Spell2": "BaseSpell",
+    "Spell3": "BaseSpell",
+    "Spell4": "BaseSpell",
+    "GameplayCollisionRadius": "50.0",
+    "BaseStaticMPRegen": 0.5,
+    "ExtraAttack2_Probability": 0.3,
+    "BaseHP": "200",
+    "BaseMP": "0",
+    "AttackSpeedPerLevel": 0,
+    "BaseCritChance": "0",
+    "MPPerLevel": "0",
+    "MoveSpeed": "460",
+    "CritPerLevel": "0",
+    "DamagePerLevel": "0",
+    "AttackSpeed": "10",
+    "AttackRange": 125,
+    "SpellBlock": "50",
+    "ExtraAttack1_Probability": "0.35000",
+    "ArmorPerLevel": "0",
+    "IsMelee": "Yes",
+    "PathfindingCollisionRadius": 25,
+    "LevelDodge": 0,
+    "BaseDamage": "20.0",
+    "BaseAttack_Probability": "0.35000",
+    "AttackDelayOffsetPercent": "-0.06000",
+    "ExpGivenOnDeath": 0,
+    "BaseDodge": 0,
+    "Armor": "30",
+    "GoldGivenOnDeath": "12.0",
+    "AcquisitionRange": "800",
+    "WeaponMaterial": "MalzaharVoidlingBasicAttack",
+    "HPPerLevel": "0",
+    "ArmorMaterial": "Flesh",
+    "AttackDelayCastOffsetPercent": 0,
+    "Description": "game_character_description_MalzaharVoidling",
+    "SelectionRadius": "70",
+    "BaseFactorHPRegen": "0.00150",
+    "CritDamageBonus": 1,
+    "BaseStaticHPRegen": 0.5
+  },
+  "Unknown": {
+    "153796874": 0.8,
+    "386495002": 0,
+    "2818610673": 0,
+    "3059634699": 0,
+    "3983263047": "1.0",
+    "4256303771": 0.5
+  },
+  "MeshSkin1": {
+    "SimpleSkin": "MalzaharVoidling.skn",
+    "Skeleton": "MalzaharVoidling.skl",
+    "Texture": "Malzahar_Voidling_TX_CM.dds",
+    "SkinScale": 1,
+    "SelfIllumination": 0.7
+  },
+  "MeshSkin2": {
+    "SimpleSkin": "MalzaharVoidling.skn",
+    "SelfIllumination": 0.7,
+    "Skeleton": "MalzaharVoidling.skl",
+    "SkinScale": 1,
+    "Texture": "Malzahar_Voidling_TX_CM.dds"
+  },
+  "MeshSkin3": {
+    "SimpleSkin": "MalzaharVoidling.skn",
+    "SkinScale": 1,
+    "Skeleton": "MalzaharVoidling.skl",
+    "SelfIllumination": 0.7,
+    "Texture": "Malzahar_Genie_Voidling_TX_CM.dds"
+  },
+  "MeshSkin": {
+    "SimpleSkin": "MalzaharVoidling.skn",
+    "Skeleton": "MalzaharVoidling.skl",
+    "Texture": "Malzahar_Voidling_TX_CM.dds",
+    "SelfIllumination": 0.7,
+    "SkinScale": 1
+  },
+  "MeshSkin4": {
+    "Skeleton": "Malzahar_darkvoid_voidling.skl",
+    "SimpleSkin": "Malzahar_darkvoid_voidling.skn",
+    "Texture": "Malzahar_darkvoid_Voidling_PET_TX_CM.dds",
+    "SkinScale": 1,
+    "SelfIllumination": 0.7
+  },
+  "Info": {
+    "IconCircle": "GreenTerror_Circle.dds",
+    "IconSquare": "Voidling_Square.dds"
+  }
 }

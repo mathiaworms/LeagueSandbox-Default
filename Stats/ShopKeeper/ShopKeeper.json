@@ -1,20 +1,14 @@
 {
-    "MetaData": {
-        "ContentFormatVersion": 4,
-        "Id": "ShopKeeper",
-        "Name": "ShopKeeper",
-        "ResourcePath": "DATA/Characters/ShopKeeper/ShopKeeper.inibin"
-    },
-    "Values": {
-        "MeshSkin": {
-            "Animations": "ShopKeeperBase.blnd",
-            "ChampionSkinName": "ShopKeeperBase",
-            "GlowFactor": 0.2,
-            "SelfIllumination": 0.7,
-            "SimpleSkin": "ShopKeeper.skn",
-            "Skeleton": "ShopKeeper.skl",
-            "SkinScale": 1.55,
-            "Texture": "shop_trol_character.dds"
-        }
-    }
+  "MeshSkin": {
+    "Weight": "ShopKeeper.wgt",
+    "SimpleSkin": "ShopKeeper.skn",
+    "Skeleton": "ShopKeeper.skl",
+    "Texture": "shop_trol_character.dds",
+    "SelfIllumination": 0.7,
+    "SkinScale": "1.55000",
+    "GlowFactor": 0.2
+  },
+  "Unknown": {
+    "3939240930": "ShopKeeper.sco"
+  }
 }

@@ -1,18 +1,25 @@
 {
-    "MetaData": {
-        "ContentFormatVersion": 4,
-        "Id": "OrderInhibitor_D",
-        "Name": "OrderInhibitor_D",
-        "ResourcePath": "DATA/Characters/OrderInhibitor_D/OrderInhibitor_D.inibin"
-    },
-    "Values": {
-        "Data": {
-            "ArmorMaterial": "Stone",
-            "Name": "game_character_displayname_OrderInhibitor_D"
-        },
-        "IdleParticles": {
-            "NumberOfParticles": 1,
-            "Particle1": "Dest_Order_Inhibitor_idle.troy root"
-        }
-    }
+  "Unknown": {
+    "78882426": "Dest_Order_Inhibitor_idle.troy root",
+    "3939240930": "Inhibitor.sco"
+  },
+  "Data": {
+    "Name": "game_character_displayname_OrderInhibitor_D",
+    "ArmorMaterial": "Stone"
+  },
+  "MeshSkin": {
+    "Weight": "Inhibitor.wgt",
+    "SimpleSkin": "Inhibitor.skn",
+    "Skeleton": "Inhibitor.skl",
+    "Texture": "OrderInhibitor_D.dds",
+    "SelfIllumination": 0.5,
+    "SkinScale": 1
+  },
+  "IdleParticles": {
+    "NumberOfParticles": 1
+  },
+  "Info": {
+    "IconCircle": "OrderLaneTower_Icon_C.dds",
+    "IconSquare": "OrderLaneTower_Icon_C.dds"
+  }
 }

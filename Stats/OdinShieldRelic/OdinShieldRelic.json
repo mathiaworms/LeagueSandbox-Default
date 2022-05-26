@@ -1,71 +1,60 @@
 {
-    "MetaData": {
-        "ContentFormatVersion": 4,
-        "Id": "OdinShieldRelic",
-        "Name": "OdinShieldRelic",
-        "ResourcePath": "DATA/Characters/OdinShieldRelic/OdinShieldRelic.inibin"
-    },
-    "Values": {
-        "Data": {
-            "Armor": 25,
-            "ArmorMaterial": "Metal",
-            "ArmorPerLevel": 0,
-            "AttackDelayCastOffsetPercent": 0.121,
-            "AttackDelayOffsetPercent": "0",
-            "AttackRange": "170",
-            "AttackSpeed": "2.0",
-            "AttackSpeedPerLevel": 0,
-            "BaseCritChance": 0,
-            "BaseDamage": "30.0",
-            "BaseDodge": 0,
-            "BaseFactorHPRegen": 0.0015,
-            "BaseFactorMPRegen": 0.0015,
-            "BaseHP": "400",
-            "BaseMP": "0",
-            "BaseStaticHPRegen": 0.5,
-            "BaseStaticMPRegen": 0.5,
-            "CritDamageBonus": 2,
-            "CritPerLevel": 0,
-            "DamagePerLevel": 0,
-            "Description": "game_character_description_OdinShieldRelic",
-            "ExpGivenOnDeath": "50.0",
-            "GameplayCollisionRadius": 0,
-            "GoldGivenOnDeath": "50.0",
-            "HPPerLevel": "0",
-            "IsMelee": "true",
-            "LevelDodge": 0,
-            "MoveSpeed": 325,
-            "MPPerLevel": "0",
-            "Name": "game_character_displayname_OdinShieldRelic",
-            "NeverRender": 1,
-            "NoHealthBar": 1,
-            "PathfindingCollisionRadius": 0,
-            "SelectionHeight": "90",
-            "SelectionRadius": "120",
-            "ServerOnly": "0",
-            "SoulGivenOnDeath": 0,
-            "SpellBlock": 25,
-            "WeaponMaterial": "OdinHealthRelicBasicAttack"
-        },
-        "Info": {
-            "IconSquare": "OrderRider_Square.dds"
-        },
-        "MeshSkin": {
-            "Animations": "OdinShieldRelicBase.blnd",
-            "ChampionSkinName": "OdinShieldRelicBase",
-            "SelfIllumination": 0.5,
-            "SimpleSkin": "OdinShieldRelic.skn",
-            "Skeleton": "OdinShieldRelic.skl",
-            "SkinScale": 2.25,
-            "Texture": "OdinShieldRelic.dds"
-        },
-        "Sounds": {
-            "Death": "Order_Minion_Rider_Death_1.wav"
-        },
-        "UNKNOWN_HASHES": {
-            "2818610673": "30.0",
-            "386495002": "0",
-            "3983263047": "0"
-        }
-    }
+  "Data": {
+    "SelectionHeight": "90",
+    "Name": "game_character_displayname_OdinShieldRelic",
+    "BaseFactorMPRegen": "0.00150",
+    "GameplayCollisionRadius": 0,
+    "BaseStaticMPRegen": 0.5,
+    "BaseHP": "400",
+    "BaseMP": "0",
+    "AttackSpeedPerLevel": 0,
+    "BaseCritChance": 0,
+    "MPPerLevel": "0",
+    "MoveSpeed": 325,
+    "CritPerLevel": 0,
+    "DamagePerLevel": 0,
+    "AttackSpeed": "2.0",
+    "AttackRange": "170",
+    "SpellBlock": 25,
+    "ArmorPerLevel": 0,
+    "IsMelee": "Yes",
+    "NeverRender": "0",
+    "PathfindingCollisionRadius": 0,
+    "LevelDodge": 0,
+    "BaseDamage": "30.0",
+    "AttackDelayOffsetPercent": "0",
+    "ExpGivenOnDeath": "50.0",
+    "BaseDodge": 0,
+    "Armor": 25,
+    "GoldGivenOnDeath": "50.0",
+    "WeaponMaterial": "OdinHealthRelicBasicAttack",
+    "HPPerLevel": "0",
+    "ArmorMaterial": "Metal",
+    "AttackDelayCastOffsetPercent": "0.12100",
+    "Description": "game_character_description_OdinShieldRelic",
+    "SelectionRadius": "120",
+    "BaseFactorHPRegen": "0.00150",
+    "NoHealthBar": 1,
+    "CritDamageBonus": 2,
+    "BaseStaticHPRegen": 0.5
+  },
+  "Unknown": {
+    "386495002": "0",
+    "2818610673": "30.0",
+    "3059634699": 0,
+    "3230821742": "Order_Minion_Rider_Death_1.wav",
+    "3939240930": "OdinShieldRelic.sco",
+    "3983263047": "0"
+  },
+  "MeshSkin": {
+    "Weight": "OdinShieldRelic.wgt",
+    "SimpleSkin": "OdinShieldRelic.skn",
+    "Skeleton": "OdinShieldRelic.skl",
+    "Texture": "OdinShieldRelic.dds",
+    "SelfIllumination": 0.5,
+    "SkinScale": "2.25000"
+  },
+  "Info": {
+    "IconSquare": "OrderRider_Square.dds"
+  }
 }

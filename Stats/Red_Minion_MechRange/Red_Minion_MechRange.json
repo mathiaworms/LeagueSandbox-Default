@@ -1,0 +1,58 @@
+{
+  "Data": {
+    "SelectionHeight": "75.0",
+    "Name": "game_character_displayname_Skeleton_Minion_Archer",
+    "BaseFactorMPRegen": "0",
+    "Spell1": "BaseSpell",
+    "Spell2": "BaseSpell",
+    "Spell3": "BaseSpell",
+    "Spell4": "BaseSpell",
+    "GameplayCollisionRadius": "65.0",
+    "BaseStaticMPRegen": "0",
+    "BaseHP": "200",
+    "BaseMP": "0",
+    "AttackSpeedPerLevel": 0,
+    "BaseCritChance": 0,
+    "MPPerLevel": "0",
+    "MoveSpeed": 325,
+    "CritPerLevel": 0,
+    "DamagePerLevel": "0",
+    "EnemyTooltip": "game_character_enemyTooltip_Skeleton_Minion_Archer",
+    "AttackRange": "600",
+    "FriendlyTooltip": "game_character_friendlyTooltip_Skeleton_Minion_Archer",
+    "ArmorPerLevel": 0,
+    "IsMelee": "No",
+    "PathfindingCollisionRadius": "35.74370",
+    "PerceptionBubbleRadius": "700",
+    "LevelDodge": 0,
+    "BaseDamage": 15,
+    "AttackDelayOffsetPercent": 65535,
+    "ExpGivenOnDeath": 0,
+    "BaseDodge": 0,
+    "Armor": "50",
+    "GoldGivenOnDeath": "10.0",
+    "AcquisitionRange": "700",
+    "HPPerLevel": "0",
+    "ArmorMaterial": "Metal",
+    "AttackDelayCastOffsetPercent": "-0.01198",
+    "Description": "game_character_description_Skeleton_Minion_Archer",
+    "SelectionRadius": "115.0000",
+    "BaseFactorHPRegen": "0",
+    "CritDamageBonus": 2,
+    "BaseStaticHPRegen": "0"
+  },
+  "Unknown": {
+    "386495002": 0,
+    "3983263047": 0
+  },
+  "MeshSkin": {
+    "SimpleSkin": "Red_Minion_MechRange.skn",
+    "Skeleton": "Red_Minion_MechRange.skl",
+    "Texture": "Red_Minion_MechRange.dds",
+    "SelfIllumination": 0.6
+  },
+  "Info": {
+    "IconCircle": "bear_Circle.dds",
+    "IconSquare": "bear_Square.dds"
+  }
+}

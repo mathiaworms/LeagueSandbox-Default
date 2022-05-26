@@ -1,30 +1,24 @@
 {
-    "MetaData": {
-        "ContentFormatVersion": 4,
-        "Id": "Shop",
-        "Name": "Shop",
-        "ResourcePath": "DATA/Characters/Shop/Shop.inibin"
-    },
-    "Values": {
-        "IdleParticles": {
-            "NumberOfParticles": "0",
-            "Particle1": "Shop_Backwall.troy joint10",
-            "Particle2": "Shop_Shield.troy joint10",
-            "Particle3": "Shop_PurplePotion.troy joint13",
-            "Particle4": "Shop_Dagger.troy joint10",
-            "Particle5": "Shop_Treasure.troy joint15",
-            "Particle6": "Shop_Axe.troy joint10",
-            "Particle7": "Shop_OrangePotion.troy joint17",
-            "Particle8": "Shop_Sword.troy joint10"
-        },
-        "MeshSkin": {
-            "Animations": "ShopBase.blnd",
-            "ChampionSkinName": "ShopBase",
-            "SelfIllumination": 0.5,
-            "SimpleSkin": "Shop.skn",
-            "Skeleton": "Shop.skl",
-            "SkinScale": "2.0",
-            "Texture": "shop_trol_prop.dds"
-        }
-    }
+  "Unknown": {
+    "78882426": "Shop_Backwall.troy joint10",
+    "78882427": "Shop_Shield.troy joint10",
+    "78882428": "Shop_PurplePotion.troy joint13",
+    "78882429": "Shop_Dagger.troy joint10",
+    "78882430": "Shop_Treasure.troy joint15",
+    "78882431": "Shop_Axe.troy joint10",
+    "78882432": "Shop_OrangePotion.troy joint17",
+    "78882433": "Shop_Sword.troy joint10",
+    "3939240930": "Shop.sco"
+  },
+  "MeshSkin": {
+    "Weight": "Shop.wgt",
+    "SimpleSkin": "Shop.skn",
+    "Skeleton": "Shop.skl",
+    "Texture": "shop_trol_prop.dds",
+    "SelfIllumination": 0.5,
+    "SkinScale": "2.0"
+  },
+  "IdleParticles": {
+    "NumberOfParticles": "0"
+  }
 }

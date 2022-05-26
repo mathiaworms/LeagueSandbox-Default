@@ -1,0 +1,87 @@
+{
+  "Data": {
+    "SelectionHeight": "90.0",
+    "Tips2": "game_character_opposing_tips_Heimerdinger",
+    "Name": "game_character_displayname_H28GEvolutionTurret",
+    "BaseFactorMPRegen": "0",
+    "Spell1": "H28RedSpecialAttack",
+    "Spell2": "BaseSpell",
+    "Spell3": "BaseSpell",
+    "Spell4": "BaseSpell",
+    "GameplayCollisionRadius": "50.0",
+    "BaseStaticMPRegen": "0",
+    "BaseHP": "260",
+    "BaseMP": "0",
+    "AttackSpeedPerLevel": 0,
+    "BaseCritChance": 0,
+    "MPPerLevel": "0",
+    "MoveSpeed": "0",
+    "CritPerLevel": 0,
+    "DamagePerLevel": "0",
+    "EnemyTooltip": "",
+    "AttackRange": 525,
+    "SpellBlock": "80",
+    "FriendlyTooltip": "",
+    "ArmorPerLevel": 0,
+    "IsMelee": "No",
+    "PathfindingCollisionRadius": 1,
+    "PerceptionBubbleRadius": "700",
+    "LevelDodge": 0,
+    "BaseDamage": "0.00100",
+    "AttackDelayOffsetPercent": "-0.50000",
+    "ExpGivenOnDeath": 0,
+    "BaseDodge": 0,
+    "Armor": "30",
+    "GoldGivenOnDeath": "12.0",
+    "AcquisitionRange": 525,
+    "ExtraSpell1": "H28RedSpecialAttack",
+    "HPPerLevel": "0",
+    "ArmorMaterial": "Metal",
+    "AttackDelayCastOffsetPercent": "-0.01198",
+    "Description": "game_character_description_H28GEvolutionTurret",
+    "SelectionRadius": "90.0000",
+    "BaseFactorHPRegen": "0",
+    "CritDamageBonus": 2,
+    "BaseStaticHPRegen": "0"
+  },
+  "Unknown": {
+    "78882426": "heimerdinger_upgrade_buf.troy R_Body_b",
+    "386495002": 0,
+    "3983263047": 0
+  },
+  "MeshSkin1": {
+    "SimpleSkin": "HeimerdingerTurret_alien.skn",
+    "Skeleton": "HeimerdingerTurret_alien.skl",
+    "Texture": "heimerdinger_turret_TX_CM_red.dds",
+    "SkinScale": 1.1,
+    "SelfIllumination": 0.5
+  },
+  "MeshSkin2": {
+    "SimpleSkin": "HeimerdingerTurret.skn",
+    "SelfIllumination": 0.5,
+    "Skeleton": "HeimerdingerTurret.skl",
+    "SkinScale": 1.1,
+    "Texture": "heimerTurret_red.dds"
+  },
+  "MeshSkin3": {
+    "SimpleSkin": "HeimerdingerTurret_mechanic.skn",
+    "SkinScale": 1.1,
+    "Skeleton": "HeimerdingerTurret_mechanic.skl",
+    "SelfIllumination": 0.5,
+    "Texture": "heimerdinger_turret_mechanic_PET_red_TX_CM.dds"
+  },
+  "MeshSkin": {
+    "SimpleSkin": "HeimerdingerTurret.skn",
+    "Skeleton": "HeimerdingerTurret.skl",
+    "Texture": "heimerTurret_red.dds",
+    "SelfIllumination": 0.5,
+    "SkinScale": 1.1
+  },
+  "IdleParticles": {
+    "NumberOfParticles": 1
+  },
+  "Info": {
+    "IconCircle": "Turret_Circle.dds",
+    "IconSquare": "Turret_Square.dds"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Data": {
+    "SelectionHeight": "120",
+    "Name": "game_character_displayname_RabidWolf",
+    "BaseFactorMPRegen": "0.00150",
+    "Spell1": "BaseSpell",
+    "Spell2": "BaseSpell",
+    "Spell3": "BaseSpell",
+    "Spell4": "BaseSpell",
+    "GameplayCollisionRadius": "65.0",
+    "BaseStaticMPRegen": 0.5,
+    "BaseHP": "850",
+    "BaseMP": "0",
+    "AttackSpeedPerLevel": 0,
+    "BaseCritChance": "35.0",
+    "MPPerLevel": "0",
+    "MoveSpeed": "600",
+    "CritPerLevel": 0,
+    "DamagePerLevel": 0,
+    "EnemyTooltip": "game_character_enemyTooltip_RabidWolf",
+    "AttackRange": "100",
+    "SpellBlock": "0",
+    "ArmorPerLevel": 0,
+    "IsMelee": "Yes",
+    "PathfindingCollisionRadius": "31.52080",
+    "LevelDodge": 0,
+    "BaseDamage": "40.0",
+    "AttackDelayOffsetPercent": "-0.10000",
+    "ExpGivenOnDeath": 0,
+    "BaseDodge": 0,
+    "Armor": 13,
+    "GoldGivenOnDeath": "75.0",
+    "WeaponMaterial": "GiantWolfBasicAttack",
+    "HPPerLevel": "0",
+    "ArmorMaterial": "Flesh",
+    "AttackDelayCastOffsetPercent": "0.08417",
+    "Description": "game_character_description_RabidWolf",
+    "SelectionRadius": "120",
+    "BaseFactorHPRegen": "0.00150",
+    "CritDamageBonus": 3,
+    "BaseStaticHPRegen": 0.5
+  },
+  "Unknown": {
+    "386495002": 0,
+    "3059634699": 0,
+    "3939240930": "RabidWolf.sco",
+    "3983263047": 0
+  },
+  "MeshSkin": {
+    "Weight": "RabidWolf.wgt",
+    "SimpleSkin": "RabidWolf.skn",
+    "Skeleton": "RabidWolf.skl",
+    "Texture": "Wolf_white.dds",
+    "SelfIllumination": 0.6,
+    "SkinScale": 1.8
+  },
+  "Info": {
+    "IconCircle": "Giantwolf_Circle.dds",
+    "IconSquare": "Giantwolf_Square.dds"
+  }
+}
