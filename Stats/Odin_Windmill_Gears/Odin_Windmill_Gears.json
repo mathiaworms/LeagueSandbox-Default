@@ -1,11 +1,19 @@
 {
-  "MeshSkin": {
-    "SimpleSkin": "Odin_Windmill_Gears.skn",
-    "Skeleton": "Odin_Windmill_Gears.skl",
-    "Texture": "Windmill_Gears_D.dds"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Odin_Windmill_Gears",
+    "Name": "Odin_Windmill_Gears",
+    "ResourcePath": "Odin_Windmill_Gears.inibin"
   },
-  "Data": {
-    "PathfindingCollisionRadius": "44.20000",
-    "AssetCategory": "obj"
+  "Values": {
+    "MeshSkin": {
+      "SimpleSkin": "Odin_Windmill_Gears.skn",
+      "Skeleton": "Odin_Windmill_Gears.skl",
+      "Texture": "Windmill_Gears_D.dds"
+    },
+    "Data": {
+      "PathfindingCollisionRadius": "44.20000",
+      "AssetCategory": "obj"
+    }
   }
 }

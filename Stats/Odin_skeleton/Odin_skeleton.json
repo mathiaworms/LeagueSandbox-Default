@@ -1,13 +1,21 @@
 {
-  "MeshSkin": {
-    "SimpleSkin": "Odin_skeleton.skn",
-    "Skeleton": "Odin_skeleton.skl",
-    "Texture": "Odin_skeleton.dds"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Odin_skeleton",
+    "Name": "Odin_skeleton",
+    "ResourcePath": "Odin_skeleton.inibin"
   },
-  "Data": {
-    "PathfindingCollisionRadius": "44.20000"
-  },
-  "Unknown": {
-    "2977633954": 0.6
+  "Values": {
+    "MeshSkin": {
+      "SimpleSkin": "Odin_skeleton.skn",
+      "Skeleton": "Odin_skeleton.skl",
+      "Texture": "Odin_skeleton.dds"
+    },
+    "Data": {
+      "PathfindingCollisionRadius": "44.20000"
+    },
+    "Unknown": {
+      "2977633954": 0.6
+    }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "UnitStats",
+    "Name": "UnitStats",
+    "ResourcePath": "UnitStats.inibin"
+  },
+  "Values": {
+    "Unknown": {
+      "142321662": 0.8,
+      "691765940": "415.0",
+      "929336834": 0.5,
+      "2729156449": "0.35000",
+      "3187681976": "490.0",
+      "3648928242": 0.5,
+      "3960262312": "220"
+    }
+  }
+}

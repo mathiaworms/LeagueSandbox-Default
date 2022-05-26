@@ -1,11 +1,19 @@
 {
-  "MeshSkin": {
-    "SimpleSkin": "odin_lifts_crystal.skn",
-    "Skeleton": "odin_lifts_crystal.skl",
-    "Texture": "Lift_Gems_Props_DM.dds"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "odin_lifts_crystal",
+    "Name": "odin_lifts_crystal",
+    "ResourcePath": "odin_lifts_crystal.inibin"
   },
-  "Data": {
-    "PathfindingCollisionRadius": "44.20000",
-    "AssetCategory": "obj"
+  "Values": {
+    "MeshSkin": {
+      "SimpleSkin": "odin_lifts_crystal.skn",
+      "Skeleton": "odin_lifts_crystal.skl",
+      "Texture": "Lift_Gems_Props_DM.dds"
+    },
+    "Data": {
+      "PathfindingCollisionRadius": "44.20000",
+      "AssetCategory": "obj"
+    }
   }
 }

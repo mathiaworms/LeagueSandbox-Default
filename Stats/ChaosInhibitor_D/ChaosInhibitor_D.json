@@ -1,25 +1,33 @@
 {
-  "Unknown": {
-    "78882426": "DestroyedBuilding_idle.troy root",
-    "3939240930": "Inhibitor.sco"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "ChaosInhibitor_D",
+    "Name": "ChaosInhibitor_D",
+    "ResourcePath": "ChaosInhibitor_D.inibin"
   },
-  "Data": {
-    "Name": "game_character_displayname_ChaosInhibitor_D",
-    "ArmorMaterial": "Stone"
-  },
-  "MeshSkin": {
-    "Weight": "Inhibitor.wgt",
-    "SimpleSkin": "Inhibitor.skn",
-    "Skeleton": "Inhibitor.skl",
-    "Texture": "ChaosInhibitor_D.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": 1
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 1
-  },
-  "Info": {
-    "IconCircle": "ChaosLaneTower_Icon_C.dds",
-    "IconSquare": "ChaosLaneTower_Icon_C.dds"
+  "Values": {
+    "Unknown": {
+      "78882426": "DestroyedBuilding_idle.troy root",
+      "3939240930": "Inhibitor.sco"
+    },
+    "Data": {
+      "Name": "game_character_displayname_ChaosInhibitor_D",
+      "ArmorMaterial": "Stone"
+    },
+    "MeshSkin": {
+      "Weight": "Inhibitor.wgt",
+      "SimpleSkin": "Inhibitor.skn",
+      "Skeleton": "Inhibitor.skl",
+      "Texture": "ChaosInhibitor_D.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": 1
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 1
+    },
+    "Info": {
+      "IconCircle": "ChaosLaneTower_Icon_C.dds",
+      "IconSquare": "ChaosLaneTower_Icon_C.dds"
+    }
   }
 }

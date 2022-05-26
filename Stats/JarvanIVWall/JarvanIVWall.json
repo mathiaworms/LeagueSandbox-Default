@@ -1,58 +1,66 @@
 {
-  "Data": {
-    "SelectionHeight": 1,
-    "Name": "game_character_displayname_IceBlock",
-    "BaseFactorMPRegen": "0.00150",
-    "Spell1": "BaseSpell",
-    "Spell2": "BaseSpell",
-    "Spell3": "BaseSpell",
-    "Spell4": "BaseSpell",
-    "BaseStaticMPRegen": 0.5,
-    "BaseHP": "150",
-    "BaseMP": "0",
-    "AttackSpeedPerLevel": 0,
-    "BaseCritChance": "0",
-    "MPPerLevel": "0",
-    "MoveSpeed": "0",
-    "CritPerLevel": "0",
-    "DamagePerLevel": "0",
-    "AttackSpeed": 1.6,
-    "AttackRange": "100",
-    "ArmorPerLevel": "0",
-    "IsMelee": "Yes",
-    "NeverRender": "0",
-    "PathfindingCollisionRadius": "90",
-    "LevelDodge": 0,
-    "BaseDamage": "40.0",
-    "AttackDelayOffsetPercent": 0,
-    "ExpGivenOnDeath": "0",
-    "BaseDodge": 0,
-    "Armor": "10",
-    "GoldGivenOnDeath": "0",
-    "HPPerLevel": "150",
-    "AttackDelayCastOffsetPercent": "0.09580",
-    "Description": "game_character_description_IceBlock",
-    "SelectionRadius": 1,
-    "BaseFactorHPRegen": "0.00150",
-    "NoHealthBar": 1,
-    "CritDamageBonus": 1,
-    "BaseStaticHPRegen": 0.5
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "JarvanIVWall",
+    "Name": "JarvanIVWall",
+    "ResourcePath": "JarvanIVWall.inibin"
   },
-  "Unknown": {
-    "78882426": "jarvan_rock.troy root",
-    "386495002": 0,
-    "2818610673": 0,
-    "3059634699": 0,
-    "3983263047": "1.0"
-  },
-  "MeshSkin": {
-    "SimpleSkin": "Iceblock.skn",
-    "Skeleton": "IceBlock.skl",
-    "Texture": "IceBlock.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": ".1"
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 1
+  "Values": {
+    "Data": {
+      "SelectionHeight": 1,
+      "Name": "game_character_displayname_IceBlock",
+      "BaseFactorMPRegen": "0.00150",
+      "Spell1": "BaseSpell",
+      "Spell2": "BaseSpell",
+      "Spell3": "BaseSpell",
+      "Spell4": "BaseSpell",
+      "BaseStaticMPRegen": 0.5,
+      "BaseHP": "150",
+      "BaseMP": "0",
+      "AttackSpeedPerLevel": 0,
+      "BaseCritChance": "0",
+      "MPPerLevel": "0",
+      "MoveSpeed": "0",
+      "CritPerLevel": "0",
+      "DamagePerLevel": "0",
+      "AttackSpeed": 1.6,
+      "AttackRange": "100",
+      "ArmorPerLevel": "0",
+      "IsMelee": "Yes",
+      "NeverRender": "0",
+      "PathfindingCollisionRadius": "90",
+      "LevelDodge": 0,
+      "BaseDamage": "40.0",
+      "AttackDelayOffsetPercent": 0,
+      "ExpGivenOnDeath": "0",
+      "BaseDodge": 0,
+      "Armor": "10",
+      "GoldGivenOnDeath": "0",
+      "HPPerLevel": "150",
+      "AttackDelayCastOffsetPercent": "0.09580",
+      "Description": "game_character_description_IceBlock",
+      "SelectionRadius": 1,
+      "BaseFactorHPRegen": "0.00150",
+      "NoHealthBar": 1,
+      "CritDamageBonus": 1,
+      "BaseStaticHPRegen": 0.5
+    },
+    "Unknown": {
+      "78882426": "jarvan_rock.troy root",
+      "386495002": 0,
+      "2818610673": 0,
+      "3059634699": 0,
+      "3983263047": "1.0"
+    },
+    "MeshSkin": {
+      "SimpleSkin": "Iceblock.skn",
+      "Skeleton": "IceBlock.skl",
+      "Texture": "IceBlock.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": ".1"
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 1
+    }
   }
 }

@@ -1,34 +1,42 @@
 {
-  "Unknown": {
-    "78882426": "Order_Nexus.troy center",
-    "78882427": "Order_Nexus_Crystal_Glow.troy gnome1",
-    "78882428": "Order_Nexus_Crystal_Glow.troy gnome2",
-    "78882429": "Order_Nexus_Crystal_Glow.troy gnome3",
-    "78882430": "Order_Nexus_Crystal_Glow.troy gnome4",
-    "78882431": "Order_Nexus_Crystal_Glow.troy gnome5",
-    "78882432": "Order_Nexus_Crystal_Glow.troy gnome6",
-    "78882433": "Order_Nexus_Base_Glow.troy base3",
-    "78882434": "Order_Nexus_Base_Glow.troy base4",
-    "122525180": "Order_Nexus_Base_Glow.troy base1",
-    "122525181": "Order_Nexus_Base_Glow.troy base2",
-    "3467638838": "Order_Nexus_Base_Glow.troy base5",
-    "3467638839": "Order_Nexus_Base_Glow.troy base6",
-    "3939240930": "Nexus.sco"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "OrderNexus",
+    "Name": "OrderNexus",
+    "ResourcePath": "OrderNexus.inibin"
   },
-  "Data": {
-    "Name": "game_character_displayname_OrderNexus",
-    "ArmorMaterial": "Stone"
-  },
-  "MeshSkin": {
-    "Weight": "Nexus.wgt",
-    "SimpleSkin": "Nexus.skn",
-    "EmissiveTexture": "Nexus_Diffuse_Cmask.dds",
-    "Skeleton": "Nexus.skl",
-    "Texture": "Nexus_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": "1.0"
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 11
+  "Values": {
+    "Unknown": {
+      "78882426": "Order_Nexus.troy center",
+      "78882427": "Order_Nexus_Crystal_Glow.troy gnome1",
+      "78882428": "Order_Nexus_Crystal_Glow.troy gnome2",
+      "78882429": "Order_Nexus_Crystal_Glow.troy gnome3",
+      "78882430": "Order_Nexus_Crystal_Glow.troy gnome4",
+      "78882431": "Order_Nexus_Crystal_Glow.troy gnome5",
+      "78882432": "Order_Nexus_Crystal_Glow.troy gnome6",
+      "78882433": "Order_Nexus_Base_Glow.troy base3",
+      "78882434": "Order_Nexus_Base_Glow.troy base4",
+      "122525180": "Order_Nexus_Base_Glow.troy base1",
+      "122525181": "Order_Nexus_Base_Glow.troy base2",
+      "3467638838": "Order_Nexus_Base_Glow.troy base5",
+      "3467638839": "Order_Nexus_Base_Glow.troy base6",
+      "3939240930": "Nexus.sco"
+    },
+    "Data": {
+      "Name": "game_character_displayname_OrderNexus",
+      "ArmorMaterial": "Stone"
+    },
+    "MeshSkin": {
+      "Weight": "Nexus.wgt",
+      "SimpleSkin": "Nexus.skn",
+      "EmissiveTexture": "Nexus_Diffuse_Cmask.dds",
+      "Skeleton": "Nexus.skl",
+      "Texture": "Nexus_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": "1.0"
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 11
+    }
   }
 }

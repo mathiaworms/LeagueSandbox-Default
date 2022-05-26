@@ -1,48 +1,56 @@
 {
-  "Data": {
-    "FlatMovementSpeedMod": "0",
-    "AvatarUniqueEffect": "game_item_uniqueeffect_5000",
-    "FlatPhysicalDamageMod": "0",
-    "FlatCritDamageMod": "0",
-    "PercentPhysicalDamageMod": "0",
-    "FlatMPRegenMod": "0",
-    "PercentMovementSpeedMod": "0",
-    "PercentMagicDamageMod": "0",
-    "flatEXPBonus": "0",
-    "PercentHPRegenMod": "0",
-    "FlatSpellBlockMod": "0",
-    "PercentCritChanceMod": "0",
-    "PercentEXPBonus": "0",
-    "FlatHPPoolMod": "0",
-    "FlatAttackSpeedMod": "0",
-    "DisplayName": "game_item_displayname_5000",
-    "FlatArmorMod": "0",
-    "FlatMPPoolMod": 3,
-    "PercentArmorMod": "0",
-    "FlatDodgeMod": "0",
-    "PercentCritDamageMod": "0",
-    "percentDodgeMod": "0",
-    "PercentHPPoolMod": "0",
-    "FlatHPRegenMod": "0",
-    "PercentMPRegenMod": "0",
-    "FlatMagicDamageMod": "0",
-    "flatBlockMod": "0",
-    "Description": "game_item_description_5000",
-    "FlatCritChanceMod": "0",
-    "percentMPPoolMod": "0",
-    "PercentSpellBlockMod": "0",
-    "PercentAttackSpeedMod": "0",
-    "percentBlockMod": "0"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "5000",
+    "Name": "5000",
+    "ResourcePath": "5000.inibin"
   },
-  "TBD": {
-    "973892934 - Rune - Rune Type": "Blue",
-    "3448275386 - Rune - Rune Tier": 1,
-    "3391710957 - Rune - Always 0": ""
-  },
-  "Unknown": {
-    "1546321377": 1,
-    "2568207556": "0",
-    "3391710957": "",
-    "3518384458": 1
+  "Values": {
+    "Data": {
+      "FlatMovementSpeedMod": "0",
+      "AvatarUniqueEffect": "game_item_uniqueeffect_5000",
+      "FlatPhysicalDamageMod": "0",
+      "FlatCritDamageMod": "0",
+      "PercentPhysicalDamageMod": "0",
+      "FlatMPRegenMod": "0",
+      "PercentMovementSpeedMod": "0",
+      "PercentMagicDamageMod": "0",
+      "flatEXPBonus": "0",
+      "PercentHPRegenMod": "0",
+      "FlatSpellBlockMod": "0",
+      "PercentCritChanceMod": "0",
+      "PercentEXPBonus": "0",
+      "FlatHPPoolMod": "0",
+      "FlatAttackSpeedMod": "0",
+      "DisplayName": "game_item_displayname_5000",
+      "FlatArmorMod": "0",
+      "FlatMPPoolMod": 3,
+      "PercentArmorMod": "0",
+      "FlatDodgeMod": "0",
+      "PercentCritDamageMod": "0",
+      "percentDodgeMod": "0",
+      "PercentHPPoolMod": "0",
+      "FlatHPRegenMod": "0",
+      "PercentMPRegenMod": "0",
+      "FlatMagicDamageMod": "0",
+      "flatBlockMod": "0",
+      "Description": "game_item_description_5000",
+      "FlatCritChanceMod": "0",
+      "percentMPPoolMod": "0",
+      "PercentSpellBlockMod": "0",
+      "PercentAttackSpeedMod": "0",
+      "percentBlockMod": "0"
+    },
+    "TBD": {
+      "973892934 - Rune - Rune Type": "Blue",
+      "3448275386 - Rune - Rune Tier": 1,
+      "3391710957 - Rune - Always 0": ""
+    },
+    "Unknown": {
+      "1546321377": 1,
+      "2568207556": "0",
+      "3391710957": "",
+      "3518384458": 1
+    }
   }
 }

@@ -1,78 +1,86 @@
 {
-  "Data": {
-    "SelectionHeight": "350.0000",
-    "Name": "game_character_displayname_Worm",
-    "BaseFactorMPRegen": "0",
-    "Spell1": "SweepingBlow",
-    "Spell2": "Propel",
-    "Spell3": "WrathoftheAncients",
-    "Spell4": "WormAttack",
-    "GameplayCollisionRadius": "100.0",
-    "BaseStaticMPRegen": "0",
-    "BaseHP": "8000",
-    "BaseMP": "0",
-    "AttackSpeedPerLevel": "2.12500",
-    "BaseCritChance": "10",
-    "MPPerLevel": "0",
-    "MoveSpeed": "0",
-    "CritPerLevel": 0,
-    "DamagePerLevel": 0,
-    "AttackSpeed": 1.6,
-    "EnemyTooltip": "game_character_enemyTooltip_Worm",
-    "AttackRange": "900",
-    "SpellBlock": "70",
-    "ArmorPerLevel": 0,
-    "IsMelee": "No",
-    "PathfindingCollisionRadius": "31.52080",
-    "GlobalExpGivenOnDeath": "900.000",
-    "LevelDodge": "0",
-    "BaseDamage": "600.0",
-    "AttackDelayOffsetPercent": "2.0",
-    "ExpGivenOnDeath": 0,
-    "BaseDodge": "0",
-    "Armor": "120.0",
-    "AcquisitionRange": "400",
-    "WeaponMaterial": "WormBasicAttack",
-    "GlobalGoldGivenOnDeath": "300.000",
-    "HPPerLevel": "0",
-    "ArmorMaterial": "Flesh",
-    "AttackDelayCastOffsetPercent": "-0.16267",
-    "Description": "game_character_description_Worm",
-    "SelectionRadius": "180.0000",
-    "BaseFactorHPRegen": "0",
-    "CritDamageBonus": 2,
-    "BaseStaticHPRegen": 15
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Worm",
+    "Name": "Worm",
+    "ResourcePath": "Worm.inibin"
   },
-  "Unknown": {
-    "78882426": "WormFoam.troy jaw",
-    "78882427": "WormFog.troy",
-    "352783488": "RedLaneTower_diffuse_Cmask.dds",
-    "386495002": 0,
-    "2818610673": 16,
-    "3826619327": 0.2,
-    "3939240930": "ChaosTurretWorm.sco",
-    "3983263047": "0"
-  },
-  "MeshSkin1": {
-    "SimpleSkin": "baron_xmas.skn",
-    "Skeleton": "baron_xmas.skl",
-    "Texture": "baron_xmas.dds",
-    "SkinScale": 1.3,
-    "SelfIllumination": 0.6
-  },
-  "MeshSkin": {
-    "Weight": "ChaosTurretWorm.wgt",
-    "SimpleSkin": "ChaosTurretWorm.skn",
-    "Skeleton": "ChaosTurretWorm.skl",
-    "Texture": "ChaosTurretWorm2.dds",
-    "SelfIllumination": 0.6,
-    "SkinScale": 1.3,
-    "GlowFactor": 0.2
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 2
-  },
-  "Info": {
-    "IconSquare": "ChaosTurretWorm_Square.dds"
+  "Values": {
+    "Data": {
+      "SelectionHeight": "350.0000",
+      "Name": "game_character_displayname_Worm",
+      "BaseFactorMPRegen": "0",
+      "Spell1": "SweepingBlow",
+      "Spell2": "Propel",
+      "Spell3": "WrathoftheAncients",
+      "Spell4": "WormAttack",
+      "GameplayCollisionRadius": "100.0",
+      "BaseStaticMPRegen": "0",
+      "BaseHP": "8000",
+      "BaseMP": "0",
+      "AttackSpeedPerLevel": "2.12500",
+      "BaseCritChance": "10",
+      "MPPerLevel": "0",
+      "MoveSpeed": "0",
+      "CritPerLevel": 0,
+      "DamagePerLevel": 0,
+      "AttackSpeed": 1.6,
+      "EnemyTooltip": "game_character_enemyTooltip_Worm",
+      "AttackRange": "900",
+      "SpellBlock": "70",
+      "ArmorPerLevel": 0,
+      "IsMelee": "No",
+      "PathfindingCollisionRadius": "31.52080",
+      "GlobalExpGivenOnDeath": "900.000",
+      "LevelDodge": "0",
+      "BaseDamage": "600.0",
+      "AttackDelayOffsetPercent": "2.0",
+      "ExpGivenOnDeath": 0,
+      "BaseDodge": "0",
+      "Armor": "120.0",
+      "AcquisitionRange": "400",
+      "WeaponMaterial": "WormBasicAttack",
+      "GlobalGoldGivenOnDeath": "300.000",
+      "HPPerLevel": "0",
+      "ArmorMaterial": "Flesh",
+      "AttackDelayCastOffsetPercent": "-0.16267",
+      "Description": "game_character_description_Worm",
+      "SelectionRadius": "180.0000",
+      "BaseFactorHPRegen": "0",
+      "CritDamageBonus": 2,
+      "BaseStaticHPRegen": 15
+    },
+    "Unknown": {
+      "78882426": "WormFoam.troy jaw",
+      "78882427": "WormFog.troy",
+      "352783488": "RedLaneTower_diffuse_Cmask.dds",
+      "386495002": 0,
+      "2818610673": 16,
+      "3826619327": 0.2,
+      "3939240930": "ChaosTurretWorm.sco",
+      "3983263047": "0"
+    },
+    "MeshSkin1": {
+      "SimpleSkin": "baron_xmas.skn",
+      "Skeleton": "baron_xmas.skl",
+      "Texture": "baron_xmas.dds",
+      "SkinScale": 1.3,
+      "SelfIllumination": 0.6
+    },
+    "MeshSkin": {
+      "Weight": "ChaosTurretWorm.wgt",
+      "SimpleSkin": "ChaosTurretWorm.skn",
+      "Skeleton": "ChaosTurretWorm.skl",
+      "Texture": "ChaosTurretWorm2.dds",
+      "SelfIllumination": 0.6,
+      "SkinScale": 1.3,
+      "GlowFactor": 0.2
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 2
+    },
+    "Info": {
+      "IconSquare": "ChaosTurretWorm_Square.dds"
+    }
   }
 }

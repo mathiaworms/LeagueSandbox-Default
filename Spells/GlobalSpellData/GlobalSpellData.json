@@ -1,6 +1,14 @@
 {
-  "Data": {
-    "SpellDelayTotalTime": "2.0",
-    "SpellDelayCastTime": ".5"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "GlobalSpellData",
+    "Name": "GlobalSpellData",
+    "ResourcePath": "GlobalSpellData.inibin"
+  },
+  "Values": {
+    "Data": {
+      "SpellDelayTotalTime": "2.0",
+      "SpellDelayCastTime": ".5"
+    }
   }
 }

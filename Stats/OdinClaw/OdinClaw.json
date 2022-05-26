@@ -1,15 +1,23 @@
 {
-  "Unknown": {
-    "363996279": 1
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "OdinClaw",
+    "Name": "OdinClaw",
+    "ResourcePath": "OdinClaw.inibin"
   },
-  "MeshSkin": {
-    "SimpleSkin": "OdinClaw.skn",
-    "Skeleton": "OdinClaw.skl",
-    "Texture": "OdinClaw.dds",
-    "SelfIllumination": "0.65000",
-    "SkinScale": "1.0"
-  },
-  "Data": {
-    "AssetCategory": "obj"
+  "Values": {
+    "Unknown": {
+      "363996279": 1
+    },
+    "MeshSkin": {
+      "SimpleSkin": "OdinClaw.skn",
+      "Skeleton": "OdinClaw.skl",
+      "Texture": "OdinClaw.dds",
+      "SelfIllumination": "0.65000",
+      "SkinScale": "1.0"
+    },
+    "Data": {
+      "AssetCategory": "obj"
+    }
   }
 }

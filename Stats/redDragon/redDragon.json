@@ -1,67 +1,75 @@
 {
-  "Data": {
-    "SelectionHeight": "150",
-    "Name": "game_character_displayname_redDragon",
-    "BaseFactorMPRegen": "0.00300",
-    "Spell1": "BaseSpell",
-    "Spell2": "BaseSpell",
-    "Spell3": "BaseSpell",
-    "Spell4": "BaseSpell",
-    "GameplayCollisionRadius": "100.0",
-    "BaseStaticMPRegen": 0.5,
-    "BaseHP": "1350",
-    "BaseMP": "0",
-    "AttackSpeedPerLevel": 0,
-    "BaseCritChance": 0,
-    "MPPerLevel": "0",
-    "MoveSpeed": "330",
-    "CritPerLevel": 0,
-    "DamagePerLevel": 0,
-    "AttackSpeed": 1.5,
-    "EnemyTooltip": "game_character_enemyTooltip_redDragon",
-    "AttackRange": "650",
-    "SpellBlock": 0,
-    "ArmorPerLevel": 0,
-    "IsMelee": "No",
-    "PathfindingCollisionRadius": "35.87360",
-    "GlobalExpGivenOnDeath": "0",
-    "LevelDodge": 0,
-    "BaseDamage": "85.0",
-    "AttackDelayOffsetPercent": "-0.05000",
-    "ExpGivenOnDeath": 0,
-    "BaseDodge": 0,
-    "Armor": 15,
-    "GlobalGoldGivenOnDeath": 75,
-    "HPPerLevel": "0",
-    "ArmorMaterial": "Flesh",
-    "AttackDelayCastOffsetPercent": "0.31180",
-    "Description": "game_character_description_redDragon",
-    "SelectionRadius": 175,
-    "BaseFactorHPRegen": "0.00150",
-    "CritDamageBonus": 2,
-    "BaseStaticHPRegen": 0.5
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "redDragon",
+    "Name": "redDragon",
+    "ResourcePath": "redDragon.inibin"
   },
-  "Unknown": {
-    "78882426": "Dragon_Smoke.troy mouth",
-    "386495002": 0,
-    "2818610673": "50.0",
-    "3059634699": 0,
-    "3939240930": "redDragon.sco",
-    "3983263047": 0
-  },
-  "MeshSkin": {
-    "Weight": "redDragon.wgt",
-    "SimpleSkin": "redDragon.skn",
-    "Skeleton": "redDragon.skl",
-    "Texture": "redDragon.dds",
-    "SelfIllumination": 0.6,
-    "SkinScale": "2.0"
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 1
-  },
-  "Info": {
-    "IconCircle": "Dragon_Circle.dds",
-    "IconSquare": "Dragon_Square.dds"
+  "Values": {
+    "Data": {
+      "SelectionHeight": "150",
+      "Name": "game_character_displayname_redDragon",
+      "BaseFactorMPRegen": "0.00300",
+      "Spell1": "BaseSpell",
+      "Spell2": "BaseSpell",
+      "Spell3": "BaseSpell",
+      "Spell4": "BaseSpell",
+      "GameplayCollisionRadius": "100.0",
+      "BaseStaticMPRegen": 0.5,
+      "BaseHP": "1350",
+      "BaseMP": "0",
+      "AttackSpeedPerLevel": 0,
+      "BaseCritChance": 0,
+      "MPPerLevel": "0",
+      "MoveSpeed": "330",
+      "CritPerLevel": 0,
+      "DamagePerLevel": 0,
+      "AttackSpeed": 1.5,
+      "EnemyTooltip": "game_character_enemyTooltip_redDragon",
+      "AttackRange": "650",
+      "SpellBlock": 0,
+      "ArmorPerLevel": 0,
+      "IsMelee": "No",
+      "PathfindingCollisionRadius": "35.87360",
+      "GlobalExpGivenOnDeath": "0",
+      "LevelDodge": 0,
+      "BaseDamage": "85.0",
+      "AttackDelayOffsetPercent": "-0.05000",
+      "ExpGivenOnDeath": 0,
+      "BaseDodge": 0,
+      "Armor": 15,
+      "GlobalGoldGivenOnDeath": 75,
+      "HPPerLevel": "0",
+      "ArmorMaterial": "Flesh",
+      "AttackDelayCastOffsetPercent": "0.31180",
+      "Description": "game_character_description_redDragon",
+      "SelectionRadius": 175,
+      "BaseFactorHPRegen": "0.00150",
+      "CritDamageBonus": 2,
+      "BaseStaticHPRegen": 0.5
+    },
+    "Unknown": {
+      "78882426": "Dragon_Smoke.troy mouth",
+      "386495002": 0,
+      "2818610673": "50.0",
+      "3059634699": 0,
+      "3939240930": "redDragon.sco",
+      "3983263047": 0
+    },
+    "MeshSkin": {
+      "Weight": "redDragon.wgt",
+      "SimpleSkin": "redDragon.skn",
+      "Skeleton": "redDragon.skl",
+      "Texture": "redDragon.dds",
+      "SelfIllumination": 0.6,
+      "SkinScale": "2.0"
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 1
+    },
+    "Info": {
+      "IconCircle": "Dragon_Circle.dds",
+      "IconSquare": "Dragon_Square.dds"
+    }
   }
 }

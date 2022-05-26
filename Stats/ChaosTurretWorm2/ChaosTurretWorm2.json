@@ -1,63 +1,71 @@
 {
-  "Data": {
-    "SelectionHeight": "200.0000",
-    "Name": "game_character_displayname_ChaosTurretWorm2",
-    "BaseFactorMPRegen": "0",
-    "GameplayCollisionRadius": "88.40000",
-    "BaseStaticMPRegen": "0",
-    "BaseHP": "1300",
-    "BaseMP": "0",
-    "AttackSpeedPerLevel": "2.12500",
-    "BaseCritChance": "0",
-    "MPPerLevel": "0",
-    "MoveSpeed": "0",
-    "CritPerLevel": 0,
-    "DamagePerLevel": 0,
-    "AttackRange": "750",
-    "SpellBlock": 75,
-    "HitFxScale": 0.5,
-    "ArmorPerLevel": 0,
-    "IsMelee": "No",
-    "PathfindingCollisionRadius": "88.40000",
-    "GlobalExpGivenOnDeath": "50.000",
-    "LevelDodge": "0",
-    "BaseDamage": "197.0",
-    "AttackDelayOffsetPercent": "-0.25000",
-    "ExpGivenOnDeath": 0,
-    "BaseDodge": "0",
-    "Armor": "37.50000",
-    "GoldGivenOnDeath": 0,
-    "AcquisitionRange": "750",
-    "GlobalGoldGivenOnDeath": "150.000",
-    "HPPerLevel": "0",
-    "ArmorMaterial": "Stone",
-    "AttackDelayCastOffsetPercent": "-.161",
-    "Description": "game_character_description_ChaosTurretWorm2",
-    "SelectionRadius": "130.0000",
-    "BaseFactorHPRegen": "0",
-    "CritDamageBonus": 2,
-    "BaseStaticHPRegen": "0"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "ChaosTurretWorm2",
+    "Name": "ChaosTurretWorm2",
+    "ResourcePath": "ChaosTurretWorm2.inibin"
   },
-  "Unknown": {
-    "78882426": "Chaos_Turret_Crystal.troy joint2",
-    "3939240930": "RedLaneTower.sco"
-  },
-  "MeshSkin": {
-    "Weight": "RedLaneTower.wgt",
-    "SimpleSkin": "RedLaneTower.skn",
-    "EmissiveTexture": "RedLaneTower_diffuse_Cmask.dds",
-    "Skeleton": "RedLaneTower.skl",
-    "Texture": "RedLaneTower_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": 1.1,
-    "GlowFactor": 0.2
-  },
-  "IdleParticles": {
-    "BeamParticle": "LaserSight_beam.troy joint2",
-    "NumberOfParticles": 1
-  },
-  "Info": {
-    "IconCircle": "ChaosLaneTower_Icon_C.dds",
-    "IconSquare": "ChaosLaneTower_Icon_C.dds"
+  "Values": {
+    "Data": {
+      "SelectionHeight": "200.0000",
+      "Name": "game_character_displayname_ChaosTurretWorm2",
+      "BaseFactorMPRegen": "0",
+      "GameplayCollisionRadius": "88.40000",
+      "BaseStaticMPRegen": "0",
+      "BaseHP": "1300",
+      "BaseMP": "0",
+      "AttackSpeedPerLevel": "2.12500",
+      "BaseCritChance": "0",
+      "MPPerLevel": "0",
+      "MoveSpeed": "0",
+      "CritPerLevel": 0,
+      "DamagePerLevel": 0,
+      "AttackRange": "750",
+      "SpellBlock": 75,
+      "HitFxScale": 0.5,
+      "ArmorPerLevel": 0,
+      "IsMelee": "No",
+      "PathfindingCollisionRadius": "88.40000",
+      "GlobalExpGivenOnDeath": "50.000",
+      "LevelDodge": "0",
+      "BaseDamage": "197.0",
+      "AttackDelayOffsetPercent": "-0.25000",
+      "ExpGivenOnDeath": 0,
+      "BaseDodge": "0",
+      "Armor": "37.50000",
+      "GoldGivenOnDeath": 0,
+      "AcquisitionRange": "750",
+      "GlobalGoldGivenOnDeath": "150.000",
+      "HPPerLevel": "0",
+      "ArmorMaterial": "Stone",
+      "AttackDelayCastOffsetPercent": "-.161",
+      "Description": "game_character_description_ChaosTurretWorm2",
+      "SelectionRadius": "130.0000",
+      "BaseFactorHPRegen": "0",
+      "CritDamageBonus": 2,
+      "BaseStaticHPRegen": "0"
+    },
+    "Unknown": {
+      "78882426": "Chaos_Turret_Crystal.troy joint2",
+      "3939240930": "RedLaneTower.sco"
+    },
+    "MeshSkin": {
+      "Weight": "RedLaneTower.wgt",
+      "SimpleSkin": "RedLaneTower.skn",
+      "EmissiveTexture": "RedLaneTower_diffuse_Cmask.dds",
+      "Skeleton": "RedLaneTower.skl",
+      "Texture": "RedLaneTower_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": 1.1,
+      "GlowFactor": 0.2
+    },
+    "IdleParticles": {
+      "BeamParticle": "LaserSight_beam.troy joint2",
+      "NumberOfParticles": 1
+    },
+    "Info": {
+      "IconCircle": "ChaosLaneTower_Icon_C.dds",
+      "IconSquare": "ChaosLaneTower_Icon_C.dds"
+    }
   }
 }

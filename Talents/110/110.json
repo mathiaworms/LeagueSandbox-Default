@@ -1,12 +1,20 @@
 {
-  "SpellData": {
-    "Level2Desc": "game_mastery_level2desc_110",
-    "Name": "game_mastery_displayname_110",
-    "Level3Desc": "game_mastery_level3desc_110",
-    "InventoryIcon": "33.dds",
-    "Level4Desc": "game_mastery_level4desc_110",
-    "Level1Desc": "game_mastery_level1desc_110",
-    "Ranks": 3,
-    "Level5Desc": "game_mastery_level5desc_110"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "110",
+    "Name": "110",
+    "ResourcePath": "110.inibin"
+  },
+  "Values": {
+    "SpellData": {
+      "Level2Desc": "game_mastery_level2desc_110",
+      "Name": "game_mastery_displayname_110",
+      "Level3Desc": "game_mastery_level3desc_110",
+      "InventoryIcon": "33.dds",
+      "Level4Desc": "game_mastery_level4desc_110",
+      "Level1Desc": "game_mastery_level1desc_110",
+      "Ranks": 3,
+      "Level5Desc": "game_mastery_level5desc_110"
+    }
   }
 }

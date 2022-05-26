@@ -1,11 +1,19 @@
 {
-  "MeshSkin": {
-    "SimpleSkin": "Odin_SoG_Order.skn",
-    "Skeleton": "Odin_SoG_Order.skl",
-    "Texture": "Odin_SoG_Order.dds"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Odin_SoG_Order",
+    "Name": "Odin_SoG_Order",
+    "ResourcePath": "Odin_SoG_Order.inibin"
   },
-  "Data": {
-    "PathfindingCollisionRadius": "44.20000",
-    "AssetCategory": "obj"
+  "Values": {
+    "MeshSkin": {
+      "SimpleSkin": "Odin_SoG_Order.skn",
+      "Skeleton": "Odin_SoG_Order.skl",
+      "Texture": "Odin_SoG_Order.dds"
+    },
+    "Data": {
+      "PathfindingCollisionRadius": "44.20000",
+      "AssetCategory": "obj"
+    }
   }
 }

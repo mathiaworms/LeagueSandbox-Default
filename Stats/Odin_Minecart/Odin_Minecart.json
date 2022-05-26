@@ -1,6 +1,14 @@
 {
-  "MeshSkin": {
-    "SimpleSkin": "Odin_Minecart.skn",
-    "Skeleton": "Odin_Minecart.skl"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Odin_Minecart",
+    "Name": "Odin_Minecart",
+    "ResourcePath": "Odin_Minecart.inibin"
+  },
+  "Values": {
+    "MeshSkin": {
+      "SimpleSkin": "Odin_Minecart.skn",
+      "Skeleton": "Odin_Minecart.skl"
+    }
   }
 }

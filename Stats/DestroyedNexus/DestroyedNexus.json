@@ -1,12 +1,20 @@
 {
-  "MeshSkin": {
-    "Weight": "DestroyedNexus.wgt",
-    "Skeleton": "DestroyedNexus.skl",
-    "Texture": "Nexus_Destroyed_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": 0.8
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "DestroyedNexus",
+    "Name": "DestroyedNexus",
+    "ResourcePath": "DestroyedNexus.inibin"
   },
-  "Unknown": {
-    "3939240930": "DestroyedNexus.sco"
+  "Values": {
+    "MeshSkin": {
+      "Weight": "DestroyedNexus.wgt",
+      "Skeleton": "DestroyedNexus.skl",
+      "Texture": "Nexus_Destroyed_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": 0.8
+    },
+    "Unknown": {
+      "3939240930": "DestroyedNexus.sco"
+    }
   }
 }

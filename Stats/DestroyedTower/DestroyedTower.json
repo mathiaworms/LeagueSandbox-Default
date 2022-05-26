@@ -1,17 +1,25 @@
 {
-  "Unknown": {
-    "78882426": "DestroyedBuilding_idle.troy root",
-    "3939240930": "DestroyedTower.sco"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "DestroyedTower",
+    "Name": "DestroyedTower",
+    "ResourcePath": "DestroyedTower.inibin"
   },
-  "MeshSkin": {
-    "Weight": "DestroyedTower.wgt",
-    "Skeleton": "DestroyedTower.skl",
-    "Texture": "tower_destroyed_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": ".87"
-  },
-  "IdleParticles": {
-    "GameplayCollisionRadius": "88.40000",
-    "NumberOfParticles": 1
+  "Values": {
+    "Unknown": {
+      "78882426": "DestroyedBuilding_idle.troy root",
+      "3939240930": "DestroyedTower.sco"
+    },
+    "MeshSkin": {
+      "Weight": "DestroyedTower.wgt",
+      "Skeleton": "DestroyedTower.skl",
+      "Texture": "tower_destroyed_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": ".87"
+    },
+    "IdleParticles": {
+      "GameplayCollisionRadius": "88.40000",
+      "NumberOfParticles": 1
+    }
   }
 }

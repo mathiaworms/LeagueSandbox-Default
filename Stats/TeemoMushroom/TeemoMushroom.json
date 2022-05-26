@@ -1,60 +1,68 @@
 {
-  "MeshSkin1": {
-    "SimpleSkin": "BantamTrap.skn",
-    "Skeleton": "BantamTrap.skl",
-    "Texture": "MushroomPatch02.dds",
-    "SkinScale": 1.5,
-    "SelfIllumination": 0.6
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "TeemoMushroom",
+    "Name": "TeemoMushroom",
+    "ResourcePath": "TeemoMushroom.inibin"
   },
-  "Data": {
-    "BaseFactorMPRegen": "0",
-    "GameplayCollisionRadius": "50.0",
-    "BaseStaticMPRegen": 65535,
-    "BaseMP": "600",
-    "PathfindingCollisionRadius": "31.79310",
-    "GoldGivenOnDeath": 0,
-    "PARType": "Shield"
-  },
-  "MeshSkin5": {
-    "SkinScale": 1.2,
-    "SimpleSkin": "EasterTrap.skn",
-    "Texture": "trap_easterbunny_PET_TX_CM_v01.dds",
-    "SelfIllumination": 0.6,
-    "Skeleton": "EasterTrap.skl"
-  },
-  "MeshSkin2": {
-    "SimpleSkin": "BantamTrap.skn",
-    "SelfIllumination": 0.6,
-    "Skeleton": "BantamTrap.skl",
-    "SkinScale": 1.5,
-    "Texture": "MushroomPatch02.dds"
-  },
-  "MeshSkin3": {
-    "SimpleSkin": "BantamTrap.skn",
-    "SkinScale": 1.5,
-    "Skeleton": "BantamTrap.skl",
-    "SelfIllumination": 0.6,
-    "Texture": "MushroomPatch02.dds"
-  },
-  "MeshSkin": {
-    "SimpleSkin": "BantamTrap.skn",
-    "Skeleton": "BantamTrap.skl",
-    "Texture": "MushroomPatch02.dds",
-    "SelfIllumination": 0.6,
-    "SkinScale": 1.5
-  },
-  "MeshSkin4": {
-    "Skeleton": "SatelliteTrap.skl",
-    "SimpleSkin": "SatelliteTrap.skn",
-    "Texture": "teemo_trap_astronaut_TX_CM.dds",
-    "SkinScale": 1.2,
-    "SelfIllumination": 0.6
-  },
-  "MeshSkin6": {
-    "Texture": "teemo_superhero_PET_TX_CM_v01.dds",
-    "SimpleSkin": "SuperTrap.skn",
-    "SkinScale": 1.6,
-    "Skeleton": "SuperTrap.skl",
-    "SelfIllumination": 0.6
+  "Values": {
+    "MeshSkin1": {
+      "SimpleSkin": "BantamTrap.skn",
+      "Skeleton": "BantamTrap.skl",
+      "Texture": "MushroomPatch02.dds",
+      "SkinScale": 1.5,
+      "SelfIllumination": 0.6
+    },
+    "Data": {
+      "BaseFactorMPRegen": "0",
+      "GameplayCollisionRadius": "50.0",
+      "BaseStaticMPRegen": 65535,
+      "BaseMP": "600",
+      "PathfindingCollisionRadius": "31.79310",
+      "GoldGivenOnDeath": 0,
+      "PARType": "Shield"
+    },
+    "MeshSkin5": {
+      "SkinScale": 1.2,
+      "SimpleSkin": "EasterTrap.skn",
+      "Texture": "trap_easterbunny_PET_TX_CM_v01.dds",
+      "SelfIllumination": 0.6,
+      "Skeleton": "EasterTrap.skl"
+    },
+    "MeshSkin2": {
+      "SimpleSkin": "BantamTrap.skn",
+      "SelfIllumination": 0.6,
+      "Skeleton": "BantamTrap.skl",
+      "SkinScale": 1.5,
+      "Texture": "MushroomPatch02.dds"
+    },
+    "MeshSkin3": {
+      "SimpleSkin": "BantamTrap.skn",
+      "SkinScale": 1.5,
+      "Skeleton": "BantamTrap.skl",
+      "SelfIllumination": 0.6,
+      "Texture": "MushroomPatch02.dds"
+    },
+    "MeshSkin": {
+      "SimpleSkin": "BantamTrap.skn",
+      "Skeleton": "BantamTrap.skl",
+      "Texture": "MushroomPatch02.dds",
+      "SelfIllumination": 0.6,
+      "SkinScale": 1.5
+    },
+    "MeshSkin4": {
+      "Skeleton": "SatelliteTrap.skl",
+      "SimpleSkin": "SatelliteTrap.skn",
+      "Texture": "teemo_trap_astronaut_TX_CM.dds",
+      "SkinScale": 1.2,
+      "SelfIllumination": 0.6
+    },
+    "MeshSkin6": {
+      "Texture": "teemo_superhero_PET_TX_CM_v01.dds",
+      "SimpleSkin": "SuperTrap.skn",
+      "SkinScale": 1.6,
+      "Skeleton": "SuperTrap.skl",
+      "SelfIllumination": 0.6
+    }
   }
 }

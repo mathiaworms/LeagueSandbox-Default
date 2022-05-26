@@ -1,13 +1,21 @@
 {
-  "MeshSkin": {
-    "Weight": "Test_CubeSphere.wgt",
-    "SimpleSkin": "Test_CubeSphere.skn",
-    "Skeleton": "Test_CubeSphere.skl",
-    "Texture": "Test_TX_CM.dds",
-    "SelfIllumination": 0.7,
-    "SkinScale": 1.1
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Test_CubeSphere",
+    "Name": "Test_CubeSphere",
+    "ResourcePath": "Test_CubeSphere.inibin"
   },
-  "Unknown": {
-    "3939240930": "Test_CubeSphere.sco"
+  "Values": {
+    "MeshSkin": {
+      "Weight": "Test_CubeSphere.wgt",
+      "SimpleSkin": "Test_CubeSphere.skn",
+      "Skeleton": "Test_CubeSphere.skl",
+      "Texture": "Test_TX_CM.dds",
+      "SelfIllumination": 0.7,
+      "SkinScale": 1.1
+    },
+    "Unknown": {
+      "3939240930": "Test_CubeSphere.sco"
+    }
   }
 }

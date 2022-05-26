@@ -1,0 +1,19 @@
+{
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "PingLimit",
+    "Name": "PingLimit",
+    "ResourcePath": "PingLimit.inibin"
+  },
+  "Values": {
+    "Unknown": {
+      "1079416745": 4,
+      "1269808074": "3.0",
+      "2084118437": 6,
+      "3858747389": 5,
+      "3858747390": "10",
+      "3858747391": 15,
+      "3858747392": 25
+    }
+  }
+}

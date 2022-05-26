@@ -1,98 +1,106 @@
 {
-  "Data": {
-    "SelectionHeight": "200",
-    "Name": "game_character_displayname_SummonerBeacon",
-    "BaseAbilityPower": "0",
-    "BaseFactorMPRegen": "0",
-    "BaseStaticMPRegen": "0",
-    "BaseHP": 3,
-    "BaseMP": "0",
-    "AttackSpeedPerLevel": "1.75000",
-    "BaseCritChance": "1.75000",
-    "MPPerLevel": "0",
-    "MoveSpeed": "0",
-    "CritPerLevel": "0.25000",
-    "DamagePerLevel": "0",
-    "Classification": "Arcane",
-    "EnemyTooltip": "game_character_enemyTooltip_SummonerBeacon",
-    "AttackRange": 1,
-    "SpellBlock": "0",
-    "FriendlyTooltip": "game_character_friendlyTooltip_SummonerBeacon",
-    "ArmorPerLevel": "0",
-    "IsMelee": "Yes",
-    "PathfindingCollisionRadius": -12,
-    "LevelDodge": "0",
-    "BaseDamage": 1,
-    "AttackDelayOffsetPercent": "0.02000",
-    "ExpGivenOnDeath": 0,
-    "BaseDodge": "0",
-    "Armor": "0",
-    "GoldGivenOnDeath": 0,
-    "AcquisitionRange": 1,
-    "AbilityPowerIncPerLevel": "0",
-    "HPPerLevel": "0",
-    "Description": "game_character_description_SummonerBeacon",
-    "SelectionRadius": "140",
-    "BaseFactorHPRegen": "0",
-    "NoHealthBar": 1,
-    "SpellBlockPerLevel": "0",
-    "CritDamageBonus": 2,
-    "BaseStaticHPRegen": "0"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "JarvanIVStandard",
+    "Name": "JarvanIVStandard",
+    "ResourcePath": "JarvanIVStandard.inibin"
   },
-  "Unknown": {
-    "78882426": "JarvanDemacianStandard_flag.troy root",
-    "245402728": "Attack1.wav",
-    "245402729": "Attack2.wav",
-    "245402730": "Attack3.wav",
-    "245402731": "Attack4.wav",
-    "386495002": "6.0",
-    "789899530": "Click1.wav",
-    "789899531": "Click2.wav",
-    "789899532": "Click3.wav",
-    "789899533": "Click4.wav",
-    "882852607": "Move1.wav",
-    "882852608": "Move2.wav",
-    "882852609": "Move3.wav",
-    "882852610": "Move4.wav",
-    "2452862585": "Special1.wav",
-    "2452862586": "Special2.wav",
-    "2896212226": "Ready.wav",
-    "3983263047": "0",
-    "4123230931": "Death.wav"
-  },
-  "MeshSkin1": {
-    "SimpleSkin": "JarvanIV_standard_commando.skn",
-    "Skeleton": "JarvanIV_standard_commando.skl",
-    "Texture": "jarvan_commando_TX_CM.dds",
-    "SkinScale": "1.0",
-    "SelfIllumination": 0.6
-  },
-  "MeshSkin2": {
-    "SimpleSkin": "JarvanIV_standard_monsterhunter.skn",
-    "SelfIllumination": 0.6,
-    "Skeleton": "JarvanIV_standard_monsterhunter.skl",
-    "SkinScale": "1.0",
-    "Texture": "jarvan_monsterhunter_TX_CM.dds"
-  },
-  "MeshSkin3": {
-    "SimpleSkin": "JarvanIV_standard_dragoon.skn",
-    "SkinScale": "1.0",
-    "Skeleton": "JarvanIV_standard_dragoon.skl",
-    "SelfIllumination": 0.6,
-    "Texture": "jarvanIV_dragoon_TX_CM.dds"
-  },
-  "MeshSkin": {
-    "SimpleSkin": "JarvanIV_standard.skn",
-    "Skeleton": "JarvanIV_standard.skl",
-    "Texture": "jarvanIV_base_TX_CM.dds",
-    "SelfIllumination": 0.6,
-    "SkinScale": "1.0"
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 1
-  },
-  "Info": {
-    "IconCircle": "",
-    "IconSquare": ""
+  "Values": {
+    "Data": {
+      "SelectionHeight": "200",
+      "Name": "game_character_displayname_SummonerBeacon",
+      "BaseAbilityPower": "0",
+      "BaseFactorMPRegen": "0",
+      "BaseStaticMPRegen": "0",
+      "BaseHP": 3,
+      "BaseMP": "0",
+      "AttackSpeedPerLevel": "1.75000",
+      "BaseCritChance": "1.75000",
+      "MPPerLevel": "0",
+      "MoveSpeed": "0",
+      "CritPerLevel": "0.25000",
+      "DamagePerLevel": "0",
+      "Classification": "Arcane",
+      "EnemyTooltip": "game_character_enemyTooltip_SummonerBeacon",
+      "AttackRange": 1,
+      "SpellBlock": "0",
+      "FriendlyTooltip": "game_character_friendlyTooltip_SummonerBeacon",
+      "ArmorPerLevel": "0",
+      "IsMelee": "Yes",
+      "PathfindingCollisionRadius": -12,
+      "LevelDodge": "0",
+      "BaseDamage": 1,
+      "AttackDelayOffsetPercent": "0.02000",
+      "ExpGivenOnDeath": 0,
+      "BaseDodge": "0",
+      "Armor": "0",
+      "GoldGivenOnDeath": 0,
+      "AcquisitionRange": 1,
+      "AbilityPowerIncPerLevel": "0",
+      "HPPerLevel": "0",
+      "Description": "game_character_description_SummonerBeacon",
+      "SelectionRadius": "140",
+      "BaseFactorHPRegen": "0",
+      "NoHealthBar": 1,
+      "SpellBlockPerLevel": "0",
+      "CritDamageBonus": 2,
+      "BaseStaticHPRegen": "0"
+    },
+    "Unknown": {
+      "78882426": "JarvanDemacianStandard_flag.troy root",
+      "245402728": "Attack1.wav",
+      "245402729": "Attack2.wav",
+      "245402730": "Attack3.wav",
+      "245402731": "Attack4.wav",
+      "386495002": "6.0",
+      "789899530": "Click1.wav",
+      "789899531": "Click2.wav",
+      "789899532": "Click3.wav",
+      "789899533": "Click4.wav",
+      "882852607": "Move1.wav",
+      "882852608": "Move2.wav",
+      "882852609": "Move3.wav",
+      "882852610": "Move4.wav",
+      "2452862585": "Special1.wav",
+      "2452862586": "Special2.wav",
+      "2896212226": "Ready.wav",
+      "3983263047": "0",
+      "4123230931": "Death.wav"
+    },
+    "MeshSkin1": {
+      "SimpleSkin": "JarvanIV_standard_commando.skn",
+      "Skeleton": "JarvanIV_standard_commando.skl",
+      "Texture": "jarvan_commando_TX_CM.dds",
+      "SkinScale": "1.0",
+      "SelfIllumination": 0.6
+    },
+    "MeshSkin2": {
+      "SimpleSkin": "JarvanIV_standard_monsterhunter.skn",
+      "SelfIllumination": 0.6,
+      "Skeleton": "JarvanIV_standard_monsterhunter.skl",
+      "SkinScale": "1.0",
+      "Texture": "jarvan_monsterhunter_TX_CM.dds"
+    },
+    "MeshSkin3": {
+      "SimpleSkin": "JarvanIV_standard_dragoon.skn",
+      "SkinScale": "1.0",
+      "Skeleton": "JarvanIV_standard_dragoon.skl",
+      "SelfIllumination": 0.6,
+      "Texture": "jarvanIV_dragoon_TX_CM.dds"
+    },
+    "MeshSkin": {
+      "SimpleSkin": "JarvanIV_standard.skn",
+      "Skeleton": "JarvanIV_standard.skl",
+      "Texture": "jarvanIV_base_TX_CM.dds",
+      "SelfIllumination": 0.6,
+      "SkinScale": "1.0"
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 1
+    },
+    "Info": {
+      "IconCircle": "",
+      "IconSquare": ""
+    }
   }
 }

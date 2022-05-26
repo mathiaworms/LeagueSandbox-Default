@@ -1,65 +1,73 @@
 {
-  "Data": {
-    "SelectionHeight": "110.0000",
-    "Name": "game_character_displayname_Blue_Minion_MechMelee",
-    "BaseFactorMPRegen": "0",
-    "GameplayCollisionRadius": "65.0",
-    "BaseStaticMPRegen": "0",
-    "ExtraAttack2_Probability": 0.2,
-    "BaseHP": "1500",
-    "BaseMP": "0",
-    "BaseCritChance": "0",
-    "MoveSpeed": 325,
-    "EnemyTooltip": "game_character_enemyTooltip_Blue_Minion_MechMelee",
-    "AttackRange": "170",
-    "SpellBlock": "-30",
-    "FriendlyTooltip": "game_character_friendlyTooltip_Blue_Minion_MechMelee",
-    "ExtraAttack1": "Blue_Minion_MechMeleeBasicAttack2",
-    "ExtraAttack1_Probability": 0.3,
-    "IsMelee": "No",
-    "PathfindingCollisionRadius": "55.52080",
-    "GlobalExpGivenOnDeath": "0",
-    "BaseDamage": "180.0",
-    "BaseAttack_Probability": 0.5,
-    "AttackDelayOffsetPercent": "-.1",
-    "ExpGivenOnDeath": "500.0",
-    "BaseDodge": "0",
-    "Armor": "30.0",
-    "GoldGivenOnDeath": "150.0",
-    "AcquisitionRange": "600",
-    "WeaponMaterial": "Blue_Minion_MechMeleeBasicAttack",
-    "GlobalGoldGivenOnDeath": "0",
-    "ArmorMaterial": "Wood",
-    "AttackDelayCastOffsetPercent": "0.08540",
-    "Description": "game_character_description_Blue_Minion_MechMelee",
-    "SelectionRadius": "145.0000",
-    "BaseFactorHPRegen": "0.00150",
-    "CritDamageBonus": 2,
-    "BaseStaticHPRegen": "10"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Blue_Minion_MechMelee",
+    "Name": "Blue_Minion_MechMelee",
+    "ResourcePath": "Blue_Minion_MechMelee.inibin"
   },
-  "MeshSkin1": {
-    "SimpleSkin": "Blue_Minion_MechMelee_Harrowing.skn",
-    "Skeleton": "Blue_Minion_MechMelee_Harrowing.skl",
-    "Texture": "blueminion_mechmelee_bathead_minions_TX_CM_v01.dds",
-    "SelfIllumination": 0.6
-  },
-  "MeshSkin2": {
-    "SimpleSkin": "Blue_Minion_MechMelee_Snowdown.skn",
-    "SelfIllumination": 0.6,
-    "Skeleton": "Blue_Minion_MechMelee_Snowdown.skl",
-    "Texture": "blueminion_mechmelee_raindeer_TX_CM_v01.dds"
-  },
-  "MeshSkin": {
-    "SimpleSkin": "Blue_Minion_MechMelee.skn",
-    "Skeleton": "Blue_Minion_MechMelee.skl",
-    "Texture": "Blue_Minion_MechMelee.dds",
-    "SelfIllumination": 0.6
-  },
-  "Info": {
-    "IconCircle": "Bluemechmelee_Circle.dds",
-    "IconSquare": "Bluemechmelee_Square.dds"
-  },
-  "Unknown": {
-    "3983263047": "0"
+  "Values": {
+    "Data": {
+      "SelectionHeight": "110.0000",
+      "Name": "game_character_displayname_Blue_Minion_MechMelee",
+      "BaseFactorMPRegen": "0",
+      "GameplayCollisionRadius": "65.0",
+      "BaseStaticMPRegen": "0",
+      "ExtraAttack2_Probability": 0.2,
+      "BaseHP": "1500",
+      "BaseMP": "0",
+      "BaseCritChance": "0",
+      "MoveSpeed": 325,
+      "EnemyTooltip": "game_character_enemyTooltip_Blue_Minion_MechMelee",
+      "AttackRange": "170",
+      "SpellBlock": "-30",
+      "FriendlyTooltip": "game_character_friendlyTooltip_Blue_Minion_MechMelee",
+      "ExtraAttack1": "Blue_Minion_MechMeleeBasicAttack2",
+      "ExtraAttack1_Probability": 0.3,
+      "IsMelee": "No",
+      "PathfindingCollisionRadius": "55.52080",
+      "GlobalExpGivenOnDeath": "0",
+      "BaseDamage": "180.0",
+      "BaseAttack_Probability": 0.5,
+      "AttackDelayOffsetPercent": "-.1",
+      "ExpGivenOnDeath": "500.0",
+      "BaseDodge": "0",
+      "Armor": "30.0",
+      "GoldGivenOnDeath": "150.0",
+      "AcquisitionRange": "600",
+      "WeaponMaterial": "Blue_Minion_MechMeleeBasicAttack",
+      "GlobalGoldGivenOnDeath": "0",
+      "ArmorMaterial": "Wood",
+      "AttackDelayCastOffsetPercent": "0.08540",
+      "Description": "game_character_description_Blue_Minion_MechMelee",
+      "SelectionRadius": "145.0000",
+      "BaseFactorHPRegen": "0.00150",
+      "CritDamageBonus": 2,
+      "BaseStaticHPRegen": "10"
+    },
+    "MeshSkin1": {
+      "SimpleSkin": "Blue_Minion_MechMelee_Harrowing.skn",
+      "Skeleton": "Blue_Minion_MechMelee_Harrowing.skl",
+      "Texture": "blueminion_mechmelee_bathead_minions_TX_CM_v01.dds",
+      "SelfIllumination": 0.6
+    },
+    "MeshSkin2": {
+      "SimpleSkin": "Blue_Minion_MechMelee_Snowdown.skn",
+      "SelfIllumination": 0.6,
+      "Skeleton": "Blue_Minion_MechMelee_Snowdown.skl",
+      "Texture": "blueminion_mechmelee_raindeer_TX_CM_v01.dds"
+    },
+    "MeshSkin": {
+      "SimpleSkin": "Blue_Minion_MechMelee.skn",
+      "Skeleton": "Blue_Minion_MechMelee.skl",
+      "Texture": "Blue_Minion_MechMelee.dds",
+      "SelfIllumination": 0.6
+    },
+    "Info": {
+      "IconCircle": "Bluemechmelee_Circle.dds",
+      "IconSquare": "Bluemechmelee_Square.dds"
+    },
+    "Unknown": {
+      "3983263047": "0"
+    }
   }
 }

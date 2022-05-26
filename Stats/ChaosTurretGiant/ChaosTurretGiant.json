@@ -1,62 +1,70 @@
 {
-  "Data": {
-    "SelectionHeight": "200.0000",
-    "Name": "game_character_displayname_ChaosTurretGiant",
-    "BaseFactorMPRegen": "0",
-    "GameplayCollisionRadius": "88.40000",
-    "BaseStaticMPRegen": "0",
-    "BaseHP": "1300",
-    "BaseMP": "0",
-    "AttackSpeedPerLevel": "2.12500",
-    "BaseCritChance": "0",
-    "MPPerLevel": "0",
-    "MoveSpeed": "0",
-    "CritPerLevel": 0,
-    "DamagePerLevel": 0,
-    "AttackRange": "750",
-    "SpellBlock": 75,
-    "HitFxScale": 0.5,
-    "ArmorPerLevel": 0,
-    "IsMelee": "No",
-    "PathfindingCollisionRadius": "88.40000",
-    "GlobalExpGivenOnDeath": "70.000",
-    "LevelDodge": "0",
-    "BaseDamage": "210.0",
-    "AttackDelayOffsetPercent": "-0.25000",
-    "ExpGivenOnDeath": 0,
-    "BaseDodge": "0",
-    "Armor": "47.50000",
-    "GoldGivenOnDeath": 0,
-    "AcquisitionRange": "750",
-    "GlobalGoldGivenOnDeath": "150.000",
-    "HPPerLevel": "0",
-    "ArmorMaterial": "Stone",
-    "AttackDelayCastOffsetPercent": "-0.16100",
-    "Description": "game_character_description_ChaosTurretGiant",
-    "SelectionRadius": "130.0000",
-    "BaseFactorHPRegen": "0",
-    "CritDamageBonus": 2,
-    "BaseStaticHPRegen": "0"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "ChaosTurretGiant",
+    "Name": "ChaosTurretGiant",
+    "ResourcePath": "ChaosTurretGiant.inibin"
   },
-  "Unknown": {
-    "78882426": "Chaos_Turret_Crystal.troy joint2",
-    "3939240930": "RedGateTower.sco"
-  },
-  "MeshSkin": {
-    "Weight": "RedGateTower.wgt",
-    "SimpleSkin": "RedGateTower.skn",
-    "EmissiveTexture": "RedGateTower_diffuse_Cmask.dds",
-    "Skeleton": "RedGateTower.skl",
-    "Texture": "RedGateTower_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": 1.1,
-    "GlowFactor": 0.2
-  },
-  "IdleParticles": {
-    "BeamParticle": "LaserSight_beam.troy joint2",
-    "NumberOfParticles": 1
-  },
-  "Info": {
-    "IconSquare": "ChaosGateTower_Icon.dds"
+  "Values": {
+    "Data": {
+      "SelectionHeight": "200.0000",
+      "Name": "game_character_displayname_ChaosTurretGiant",
+      "BaseFactorMPRegen": "0",
+      "GameplayCollisionRadius": "88.40000",
+      "BaseStaticMPRegen": "0",
+      "BaseHP": "1300",
+      "BaseMP": "0",
+      "AttackSpeedPerLevel": "2.12500",
+      "BaseCritChance": "0",
+      "MPPerLevel": "0",
+      "MoveSpeed": "0",
+      "CritPerLevel": 0,
+      "DamagePerLevel": 0,
+      "AttackRange": "750",
+      "SpellBlock": 75,
+      "HitFxScale": 0.5,
+      "ArmorPerLevel": 0,
+      "IsMelee": "No",
+      "PathfindingCollisionRadius": "88.40000",
+      "GlobalExpGivenOnDeath": "70.000",
+      "LevelDodge": "0",
+      "BaseDamage": "210.0",
+      "AttackDelayOffsetPercent": "-0.25000",
+      "ExpGivenOnDeath": 0,
+      "BaseDodge": "0",
+      "Armor": "47.50000",
+      "GoldGivenOnDeath": 0,
+      "AcquisitionRange": "750",
+      "GlobalGoldGivenOnDeath": "150.000",
+      "HPPerLevel": "0",
+      "ArmorMaterial": "Stone",
+      "AttackDelayCastOffsetPercent": "-0.16100",
+      "Description": "game_character_description_ChaosTurretGiant",
+      "SelectionRadius": "130.0000",
+      "BaseFactorHPRegen": "0",
+      "CritDamageBonus": 2,
+      "BaseStaticHPRegen": "0"
+    },
+    "Unknown": {
+      "78882426": "Chaos_Turret_Crystal.troy joint2",
+      "3939240930": "RedGateTower.sco"
+    },
+    "MeshSkin": {
+      "Weight": "RedGateTower.wgt",
+      "SimpleSkin": "RedGateTower.skn",
+      "EmissiveTexture": "RedGateTower_diffuse_Cmask.dds",
+      "Skeleton": "RedGateTower.skl",
+      "Texture": "RedGateTower_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": 1.1,
+      "GlowFactor": 0.2
+    },
+    "IdleParticles": {
+      "BeamParticle": "LaserSight_beam.troy joint2",
+      "NumberOfParticles": 1
+    },
+    "Info": {
+      "IconSquare": "ChaosGateTower_Icon.dds"
+    }
   }
 }

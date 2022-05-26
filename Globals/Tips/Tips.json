@@ -1,0 +1,17 @@
+{
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Tips",
+    "Name": "Tips",
+    "ResourcePath": "Tips.inibin"
+  },
+  "Values": {
+    "Unknown": {
+      "619603287": 2,
+      "1626719172": "scn7_btn_5",
+      "1767702236": 3,
+      "2267056647": "scn7_btn_4",
+      "3449742546": "scn7_btn_3"
+    }
+  }
+}

@@ -1,33 +1,41 @@
 {
-  "Unknown": {
-    "78882426": "Chaos_Inhibit_Gem.troy root",
-    "78882427": "Chaos_Inhibit_Crystal_Glow.troy gem1",
-    "78882428": "Chaos_Inhibit_Crystal_Glow.troy gem2",
-    "78882429": "Chaos_Inhibit_Crystal_Glow.troy gem3",
-    "78882430": "Chaos_Inhibit_Crystal_Glow.troy gem4",
-    "78882431": "Chaos_Inhibit_Base_Glow.troy base2",
-    "78882432": "Chaos_Inhibit_Base_Glow.troy base3",
-    "78882433": "Chaos_Inhibit_Base_Glow.troy base4",
-    "122525178": "Chaos_Inhibit_Base_Glow.troy base1",
-    "3939240930": "Inhibitor.sco"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "ChaosInhibitor",
+    "Name": "ChaosInhibitor",
+    "ResourcePath": "ChaosInhibitor.inibin"
   },
-  "Data": {
-    "Name": "game_character_displayname_ChaosInhibitor",
-    "ArmorMaterial": "Stone"
-  },
-  "MeshSkin": {
-    "Weight": "Inhibitor.wgt",
-    "SimpleSkin": "Inhibitor.skn",
-    "Skeleton": "Inhibitor.skl",
-    "Texture": "Chaos_Inhibitor_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": 1
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 8
-  },
-  "Info": {
-    "IconCircle": "ChaosLaneTower_Icon_C.dds",
-    "IconSquare": "ChaosLaneTower_Icon_C.dds"
+  "Values": {
+    "Unknown": {
+      "78882426": "Chaos_Inhibit_Gem.troy root",
+      "78882427": "Chaos_Inhibit_Crystal_Glow.troy gem1",
+      "78882428": "Chaos_Inhibit_Crystal_Glow.troy gem2",
+      "78882429": "Chaos_Inhibit_Crystal_Glow.troy gem3",
+      "78882430": "Chaos_Inhibit_Crystal_Glow.troy gem4",
+      "78882431": "Chaos_Inhibit_Base_Glow.troy base2",
+      "78882432": "Chaos_Inhibit_Base_Glow.troy base3",
+      "78882433": "Chaos_Inhibit_Base_Glow.troy base4",
+      "122525178": "Chaos_Inhibit_Base_Glow.troy base1",
+      "3939240930": "Inhibitor.sco"
+    },
+    "Data": {
+      "Name": "game_character_displayname_ChaosInhibitor",
+      "ArmorMaterial": "Stone"
+    },
+    "MeshSkin": {
+      "Weight": "Inhibitor.wgt",
+      "SimpleSkin": "Inhibitor.skn",
+      "Skeleton": "Inhibitor.skl",
+      "Texture": "Chaos_Inhibitor_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": 1
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 8
+    },
+    "Info": {
+      "IconCircle": "ChaosLaneTower_Icon_C.dds",
+      "IconSquare": "ChaosLaneTower_Icon_C.dds"
+    }
   }
 }

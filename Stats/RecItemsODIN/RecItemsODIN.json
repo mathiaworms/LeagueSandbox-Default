@@ -1,11 +1,19 @@
 {
-  "ItemSet1": {
-    "RecItem1": 1028,
-    "RecItem2": 3111,
-    "RecItem3": "3180",
-    "RecItem4": 3143,
-    "RecItem5": 3068,
-    "RecItem6": "3110",
-    "SetName": "Set1"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "RecItemsODIN",
+    "Name": "RecItemsODIN",
+    "ResourcePath": "RecItemsODIN.inibin"
+  },
+  "Values": {
+    "ItemSet1": {
+      "RecItem1": 1063,
+      "RecItem2": 3158,
+      "RecItem3": 3116,
+      "RecItem4": 3165,
+      "RecItem5": 3089,
+      "RecItem6": 3135,
+      "SetName": "Set1"
+    }
   }
 }

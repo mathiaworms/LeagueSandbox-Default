@@ -1,20 +1,28 @@
 {
-  "ItemSet1": {
-    "RecItem1": 1027,
-    "RecItem2": "3020",
-    "RecItem3": "3070",
-    "RecItem4": "3110",
-    "RecItem5": 3003,
-    "RecItem6": 3102,
-    "SetName": "Set1"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "RecItemsTUTORIAL",
+    "Name": "RecItemsTUTORIAL",
+    "ResourcePath": "RecItemsTUTORIAL.inibin"
   },
-  "ItemSet2": {
-    "SetName": "Set1",
-    "RecItem1": 1056,
-    "RecItem2": 1001,
-    "RecItem3": 1001,
-    "RecItem4": 1001,
-    "RecItem5": 1001,
-    "RecItem6": 1001
+  "Values": {
+    "ItemSet1": {
+      "RecItem1": 1027,
+      "RecItem2": "3020",
+      "RecItem3": "3070",
+      "RecItem4": "3110",
+      "RecItem5": 3003,
+      "RecItem6": 3102,
+      "SetName": "Set1"
+    },
+    "ItemSet2": {
+      "SetName": "Set1",
+      "RecItem1": 1056,
+      "RecItem2": 1001,
+      "RecItem3": 1001,
+      "RecItem4": 1001,
+      "RecItem5": 1001,
+      "RecItem6": 1001
+    }
   }
 }

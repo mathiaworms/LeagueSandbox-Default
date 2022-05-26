@@ -1,16 +1,24 @@
 {
-  "Unknown": {
-    "78882426": "DestroyedBuilding_idle.troy root",
-    "3939240930": "DestroyedInhibitor.sco"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "DestroyedInhibitor",
+    "Name": "DestroyedInhibitor",
+    "ResourcePath": "DestroyedInhibitor.inibin"
   },
-  "MeshSkin": {
-    "Weight": "DestroyedInhibitor.wgt",
-    "Skeleton": "DestroyedInhibitor.skl",
-    "Texture": "Inhibitor_destroyed_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": 1
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 1
+  "Values": {
+    "Unknown": {
+      "78882426": "DestroyedBuilding_idle.troy root",
+      "3939240930": "DestroyedInhibitor.sco"
+    },
+    "MeshSkin": {
+      "Weight": "DestroyedInhibitor.wgt",
+      "Skeleton": "DestroyedInhibitor.skl",
+      "Texture": "Inhibitor_destroyed_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": 1
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 1
+    }
   }
 }

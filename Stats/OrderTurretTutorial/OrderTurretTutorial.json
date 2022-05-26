@@ -1,63 +1,71 @@
 {
-  "Data": {
-    "SelectionHeight": "200.0000",
-    "Name": "game_character_displayname_OrderTurretTutorial",
-    "BaseFactorMPRegen": "0",
-    "GameplayCollisionRadius": "88.40000",
-    "BaseStaticMPRegen": "0",
-    "BaseHP": "400",
-    "BaseMP": "0",
-    "AttackSpeedPerLevel": "2.12500",
-    "BaseCritChance": "0",
-    "MPPerLevel": "0",
-    "MoveSpeed": "0",
-    "CritPerLevel": 0,
-    "DamagePerLevel": 0,
-    "AttackRange": "700",
-    "HitFxScale": 0.5,
-    "ArmorPerLevel": 0,
-    "IsMelee": "No",
-    "PathfindingCollisionRadius": "88.40000",
-    "GlobalExpGivenOnDeath": "300.000",
-    "LevelDodge": "0",
-    "BaseDamage": 0.1,
-    "AttackDelayOffsetPercent": "-0.37500",
-    "ExpGivenOnDeath": 0,
-    "BaseDodge": "0",
-    "Armor": 0,
-    "GoldGivenOnDeath": 0,
-    "AcquisitionRange": "700",
-    "GlobalGoldGivenOnDeath": "100.000",
-    "HPPerLevel": "0",
-    "ArmorMaterial": "Stone",
-    "AttackDelayCastOffsetPercent": "0",
-    "Description": "game_character_description_OrderTurretTutorial",
-    "SelectionRadius": "130.0000",
-    "BaseFactorHPRegen": "0",
-    "CritDamageBonus": 2,
-    "BaseStaticHPRegen": "0"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "OrderTurretTutorial",
+    "Name": "OrderTurretTutorial",
+    "ResourcePath": "OrderTurretTutorial.inibin"
   },
-  "Unknown": {
-    "78882426": "Order_Turret_Crystal.troy joint2",
-    "386495002": 0,
-    "3939240930": "BlueLaneTower.sco",
-    "3983263047": "0"
-  },
-  "MeshSkin": {
-    "Weight": "BlueLaneTower.wgt",
-    "SimpleSkin": "BlueLaneTower.skn",
-    "EmissiveTexture": "BlueLaneTower_diffuse_Cmask.dds",
-    "Skeleton": "BlueLaneTower.skl",
-    "Texture": "BlueLaneTower_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": 1.1,
-    "GlowFactor": 0.2
-  },
-  "IdleParticles": {
-    "BeamParticle": "LaserSight_beam.troy joint2",
-    "NumberOfParticles": 1
-  },
-  "Info": {
-    "IconSquare": "OrderLaneTower_Icon.dds"
+  "Values": {
+    "Data": {
+      "SelectionHeight": "200.0000",
+      "Name": "game_character_displayname_OrderTurretTutorial",
+      "BaseFactorMPRegen": "0",
+      "GameplayCollisionRadius": "88.40000",
+      "BaseStaticMPRegen": "0",
+      "BaseHP": "400",
+      "BaseMP": "0",
+      "AttackSpeedPerLevel": "2.12500",
+      "BaseCritChance": "0",
+      "MPPerLevel": "0",
+      "MoveSpeed": "0",
+      "CritPerLevel": 0,
+      "DamagePerLevel": 0,
+      "AttackRange": "700",
+      "HitFxScale": 0.5,
+      "ArmorPerLevel": 0,
+      "IsMelee": "No",
+      "PathfindingCollisionRadius": "88.40000",
+      "GlobalExpGivenOnDeath": "300.000",
+      "LevelDodge": "0",
+      "BaseDamage": 0.1,
+      "AttackDelayOffsetPercent": "-0.37500",
+      "ExpGivenOnDeath": 0,
+      "BaseDodge": "0",
+      "Armor": 0,
+      "GoldGivenOnDeath": 0,
+      "AcquisitionRange": "700",
+      "GlobalGoldGivenOnDeath": "100.000",
+      "HPPerLevel": "0",
+      "ArmorMaterial": "Stone",
+      "AttackDelayCastOffsetPercent": "0",
+      "Description": "game_character_description_OrderTurretTutorial",
+      "SelectionRadius": "130.0000",
+      "BaseFactorHPRegen": "0",
+      "CritDamageBonus": 2,
+      "BaseStaticHPRegen": "0"
+    },
+    "Unknown": {
+      "78882426": "Order_Turret_Crystal.troy joint2",
+      "386495002": 0,
+      "3939240930": "BlueLaneTower.sco",
+      "3983263047": "0"
+    },
+    "MeshSkin": {
+      "Weight": "BlueLaneTower.wgt",
+      "SimpleSkin": "BlueLaneTower.skn",
+      "EmissiveTexture": "BlueLaneTower_diffuse_Cmask.dds",
+      "Skeleton": "BlueLaneTower.skl",
+      "Texture": "BlueLaneTower_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": 1.1,
+      "GlowFactor": 0.2
+    },
+    "IdleParticles": {
+      "BeamParticle": "LaserSight_beam.troy joint2",
+      "NumberOfParticles": 1
+    },
+    "Info": {
+      "IconSquare": "OrderLaneTower_Icon.dds"
+    }
   }
 }

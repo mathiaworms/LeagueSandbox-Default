@@ -1,12 +1,20 @@
 {
-  "MeshSkin": {
-    "SimpleSkin": "Odin_Drill.skn",
-    "Skeleton": "Odin_Drill.skl",
-    "Texture": "Odin_Drill_TX_CM.dds",
-    "SkinScale": 0.8
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Odin_Drill",
+    "Name": "Odin_Drill",
+    "ResourcePath": "Odin_Drill.inibin"
   },
-  "Data": {
-    "PathfindingCollisionRadius": "44.20000",
-    "AssetCategory": "obj"
+  "Values": {
+    "MeshSkin": {
+      "SimpleSkin": "Odin_Drill.skn",
+      "Skeleton": "Odin_Drill.skl",
+      "Texture": "Odin_Drill_TX_CM.dds",
+      "SkinScale": 0.8
+    },
+    "Data": {
+      "PathfindingCollisionRadius": "44.20000",
+      "AssetCategory": "obj"
+    }
   }
 }

@@ -1,12 +1,20 @@
 {
-  "Unknown": {
-    "363996279": 1
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "OdinCrane",
+    "Name": "OdinCrane",
+    "ResourcePath": "OdinCrane.inibin"
   },
-  "MeshSkin": {
-    "SimpleSkin": "OdinCrane.skn",
-    "Skeleton": "OdinCrane.skl",
-    "Texture": "mining_props_mechanical_machinery_TX_DM.dds",
-    "SelfIllumination": "0.05000",
-    "SkinScale": "1.0"
+  "Values": {
+    "Unknown": {
+      "363996279": 1
+    },
+    "MeshSkin": {
+      "SimpleSkin": "OdinCrane.skn",
+      "Skeleton": "OdinCrane.skl",
+      "Texture": "mining_props_mechanical_machinery_TX_DM.dds",
+      "SelfIllumination": "0.05000",
+      "SkinScale": "1.0"
+    }
   }
 }

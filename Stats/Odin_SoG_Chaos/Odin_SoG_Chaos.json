@@ -1,11 +1,19 @@
 {
-  "MeshSkin": {
-    "SimpleSkin": "Odin_SoG_Chaos.skn",
-    "Skeleton": "Odin_SoG_Chaos.skl",
-    "Texture": "Odin_SoG_Chaos.dds"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Odin_SoG_Chaos",
+    "Name": "Odin_SoG_Chaos",
+    "ResourcePath": "Odin_SoG_Chaos.inibin"
   },
-  "Data": {
-    "PathfindingCollisionRadius": "44.20000",
-    "AssetCategory": "obj"
+  "Values": {
+    "MeshSkin": {
+      "SimpleSkin": "Odin_SoG_Chaos.skn",
+      "Skeleton": "Odin_SoG_Chaos.skl",
+      "Texture": "Odin_SoG_Chaos.dds"
+    },
+    "Data": {
+      "PathfindingCollisionRadius": "44.20000",
+      "AssetCategory": "obj"
+    }
   }
 }

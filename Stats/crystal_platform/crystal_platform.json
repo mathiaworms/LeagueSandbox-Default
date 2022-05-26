@@ -1,17 +1,25 @@
 {
-  "Unknown": {
-    "78882426": "capture_point_gauge.troy"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "crystal_platform",
+    "Name": "crystal_platform",
+    "ResourcePath": "crystal_platform.inibin"
   },
-  "Data": {
-    "Spell1": "OdinDisintegrate",
-    "PathfindingCollisionRadius": "0"
-  },
-  "MeshSkin": {
-    "SimpleSkin": "crystal_platform.skn",
-    "Skeleton": "crystal_platform.skl",
-    "Texture": "platform_d.dds"
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 1
+  "Values": {
+    "Unknown": {
+      "78882426": "capture_point_gauge.troy"
+    },
+    "Data": {
+      "Spell1": "OdinDisintegrate",
+      "PathfindingCollisionRadius": "0"
+    },
+    "MeshSkin": {
+      "SimpleSkin": "crystal_platform.skn",
+      "Skeleton": "crystal_platform.skl",
+      "Texture": "platform_d.dds"
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 1
+    }
   }
 }

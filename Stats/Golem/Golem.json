@@ -1,69 +1,77 @@
 {
-  "Data": {
-    "SelectionHeight": "120",
-    "Name": "game_character_displayname_Golem",
-    "BaseFactorMPRegen": "0.00150",
-    "Spell1": "BaseSpell",
-    "Spell2": "BaseSpell",
-    "Spell3": "BaseSpell",
-    "Spell4": "BaseSpell",
-    "GameplayCollisionRadius": "80.0",
-    "BaseStaticMPRegen": 0.5,
-    "BaseHP": "800",
-    "BaseMP": "0",
-    "AttackSpeedPerLevel": 0,
-    "BaseCritChance": 0,
-    "MPPerLevel": "0",
-    "MoveSpeed": "180",
-    "CritPerLevel": 0,
-    "DamagePerLevel": 0,
-    "AttackSpeed": 1.5,
-    "EnemyTooltip": "game_character_enemyTooltip_Golem",
-    "AttackRange": "100",
-    "SpellBlock": "0",
-    "ArmorPerLevel": 0,
-    "IsMelee": "Yes",
-    "PathfindingCollisionRadius": "24.57470",
-    "LevelDodge": 0,
-    "BaseDamage": "65.0",
-    "AttackDelayOffsetPercent": "0.02000",
-    "ExpGivenOnDeath": 0,
-    "BaseDodge": 0,
-    "Armor": 12,
-    "GoldGivenOnDeath": "30.0",
-    "AcquisitionRange": "300",
-    "WeaponMaterial": "GolemBasicAttack",
-    "HPPerLevel": "0",
-    "ArmorMaterial": "Stone",
-    "AttackDelayCastOffsetPercent": "0.11000",
-    "Description": "game_character_description_Golem",
-    "SelectionRadius": 155,
-    "BaseFactorHPRegen": "0.00150",
-    "CritDamageBonus": 2,
-    "BaseStaticHPRegen": 0.5
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "Golem",
+    "Name": "Golem",
+    "ResourcePath": "Golem.inibin"
   },
-  "Unknown": {
-    "78882426": "Golem_idle.troy spine_b",
-    "386495002": 0,
-    "2818610673": "50.0",
-    "3059634699": 0,
-    "3939240930": "Golem.sco",
-    "3983263047": 0
-  },
-  "MeshSkin": {
-    "Weight": "Golem.wgt",
-    "SimpleSkin": "Golem.skn",
-    "EmissiveTexture": "Golem_Diffuse_Cmask.dds",
-    "Skeleton": "Golem.skl",
-    "Texture": "Golem.dds",
-    "SelfIllumination": 0.6,
-    "SkinScale": 1.8
-  },
-  "IdleParticles": {
-    "NumberOfParticles": "0"
-  },
-  "Info": {
-    "IconCircle": "Golem_Circle.dds",
-    "IconSquare": "Golem_Square.dds"
+  "Values": {
+    "Data": {
+      "SelectionHeight": "120",
+      "Name": "game_character_displayname_Golem",
+      "BaseFactorMPRegen": "0.00150",
+      "Spell1": "BaseSpell",
+      "Spell2": "BaseSpell",
+      "Spell3": "BaseSpell",
+      "Spell4": "BaseSpell",
+      "GameplayCollisionRadius": "80.0",
+      "BaseStaticMPRegen": 0.5,
+      "BaseHP": "800",
+      "BaseMP": "0",
+      "AttackSpeedPerLevel": 0,
+      "BaseCritChance": 0,
+      "MPPerLevel": "0",
+      "MoveSpeed": "180",
+      "CritPerLevel": 0,
+      "DamagePerLevel": 0,
+      "AttackSpeed": 1.5,
+      "EnemyTooltip": "game_character_enemyTooltip_Golem",
+      "AttackRange": "100",
+      "SpellBlock": "0",
+      "ArmorPerLevel": 0,
+      "IsMelee": "Yes",
+      "PathfindingCollisionRadius": "24.57470",
+      "LevelDodge": 0,
+      "BaseDamage": "65.0",
+      "AttackDelayOffsetPercent": "0.02000",
+      "ExpGivenOnDeath": 0,
+      "BaseDodge": 0,
+      "Armor": 12,
+      "GoldGivenOnDeath": "30.0",
+      "AcquisitionRange": "300",
+      "WeaponMaterial": "GolemBasicAttack",
+      "HPPerLevel": "0",
+      "ArmorMaterial": "Stone",
+      "AttackDelayCastOffsetPercent": "0.11000",
+      "Description": "game_character_description_Golem",
+      "SelectionRadius": 155,
+      "BaseFactorHPRegen": "0.00150",
+      "CritDamageBonus": 2,
+      "BaseStaticHPRegen": 0.5
+    },
+    "Unknown": {
+      "78882426": "Golem_idle.troy spine_b",
+      "386495002": 0,
+      "2818610673": "50.0",
+      "3059634699": 0,
+      "3939240930": "Golem.sco",
+      "3983263047": 0
+    },
+    "MeshSkin": {
+      "Weight": "Golem.wgt",
+      "SimpleSkin": "Golem.skn",
+      "EmissiveTexture": "Golem_Diffuse_Cmask.dds",
+      "Skeleton": "Golem.skl",
+      "Texture": "Golem.dds",
+      "SelfIllumination": 0.6,
+      "SkinScale": 1.8
+    },
+    "IdleParticles": {
+      "NumberOfParticles": "0"
+    },
+    "Info": {
+      "IconCircle": "Golem_Circle.dds",
+      "IconSquare": "Golem_Square.dds"
+    }
   }
 }

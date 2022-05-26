@@ -1,11 +1,19 @@
 {
-  "MeshSkin": {
-    "SimpleSkin": "OdinRockSaw.skn",
-    "Skeleton": "OdinRockSaw.skl",
-    "Texture": "OdinRockSaw_DM.dds"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "OdinRockSaw",
+    "Name": "OdinRockSaw",
+    "ResourcePath": "OdinRockSaw.inibin"
   },
-  "Data": {
-    "PathfindingCollisionRadius": "44.20000",
-    "AssetCategory": "obj"
+  "Values": {
+    "MeshSkin": {
+      "SimpleSkin": "OdinRockSaw.skn",
+      "Skeleton": "OdinRockSaw.skl",
+      "Texture": "OdinRockSaw_DM.dds"
+    },
+    "Data": {
+      "PathfindingCollisionRadius": "44.20000",
+      "AssetCategory": "obj"
+    }
   }
 }

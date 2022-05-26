@@ -1,34 +1,42 @@
 {
-  "Unknown": {
-    "78882426": "Chaos_Nexus.troy center",
-    "78882427": "Chaos_Nexus_Crystal_Glow.troy gnome1",
-    "78882428": "Chaos_Nexus_Crystal_Glow.troy gnome2",
-    "78882429": "Chaos_Nexus_Crystal_Glow.troy gnome3",
-    "78882430": "Chaos_Nexus_Crystal_Glow.troy gnome4",
-    "78882431": "Chaos_Nexus_Crystal_Glow.troy gnome5",
-    "78882432": "Chaos_Nexus_Crystal_Glow.troy gnome6",
-    "78882433": "Chaos_Nexus_Base_Glow.troy base3",
-    "78882434": "Chaos_Nexus_Base_Glow.troy base4",
-    "122525180": "Chaos_Nexus_Base_Glow.troy base1",
-    "122525181": "Chaos_Nexus_Base_Glow.troy base2",
-    "3467638838": "Chaos_Nexus_Base_Glow.troy base5",
-    "3467638839": "Chaos_Nexus_Base_Glow.troy base6",
-    "3939240930": "Nexus.sco"
+  "MetaData": {
+    "ContentFormatVersion": 4,
+    "Id": "ChaosNexus",
+    "Name": "ChaosNexus",
+    "ResourcePath": "ChaosNexus.inibin"
   },
-  "Data": {
-    "Name": "game_character_displayname_ChaosNexus",
-    "ArmorMaterial": "Stone"
-  },
-  "MeshSkin": {
-    "Weight": "Nexus.wgt",
-    "SimpleSkin": "Nexus.skn",
-    "EmissiveTexture": "Nexus_Diffuse_Cmask.dds",
-    "Skeleton": "Nexus.skl",
-    "Texture": "Chaos_Nexus_diff.dds",
-    "SelfIllumination": 0.5,
-    "SkinScale": "1.0"
-  },
-  "IdleParticles": {
-    "NumberOfParticles": 11
+  "Values": {
+    "Unknown": {
+      "78882426": "Chaos_Nexus.troy center",
+      "78882427": "Chaos_Nexus_Crystal_Glow.troy gnome1",
+      "78882428": "Chaos_Nexus_Crystal_Glow.troy gnome2",
+      "78882429": "Chaos_Nexus_Crystal_Glow.troy gnome3",
+      "78882430": "Chaos_Nexus_Crystal_Glow.troy gnome4",
+      "78882431": "Chaos_Nexus_Crystal_Glow.troy gnome5",
+      "78882432": "Chaos_Nexus_Crystal_Glow.troy gnome6",
+      "78882433": "Chaos_Nexus_Base_Glow.troy base3",
+      "78882434": "Chaos_Nexus_Base_Glow.troy base4",
+      "122525180": "Chaos_Nexus_Base_Glow.troy base1",
+      "122525181": "Chaos_Nexus_Base_Glow.troy base2",
+      "3467638838": "Chaos_Nexus_Base_Glow.troy base5",
+      "3467638839": "Chaos_Nexus_Base_Glow.troy base6",
+      "3939240930": "Nexus.sco"
+    },
+    "Data": {
+      "Name": "game_character_displayname_ChaosNexus",
+      "ArmorMaterial": "Stone"
+    },
+    "MeshSkin": {
+      "Weight": "Nexus.wgt",
+      "SimpleSkin": "Nexus.skn",
+      "EmissiveTexture": "Nexus_Diffuse_Cmask.dds",
+      "Skeleton": "Nexus.skl",
+      "Texture": "Chaos_Nexus_diff.dds",
+      "SelfIllumination": 0.5,
+      "SkinScale": "1.0"
+    },
+    "IdleParticles": {
+      "NumberOfParticles": 11
+    }
   }
 }
